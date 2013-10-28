@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: objective-c</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>學習 iOS App 開發的一些心得</title>
+  <link>http://turnps.github.io/http:/nelson.pixnet.net/blog/post/32374389</link>
+  <author>Josh</author>
+  <pubDate>2012-09-30T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/nelson.pixnet.net/blog/post/32374389</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>objective-c初學網站教學文章</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/d2163487-f2a2-492b-98c9-fea1e1cea88c/d39cd4840c4b92a231a203ee5782a023</link>
+  <author>Josh</author>
+  <pubDate>2012-08-31T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/d2163487-f2a2-492b-98c9-fea1e1cea88c/d39cd4840c4b92a231a203ee5782a023</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: linux</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>linux(tips)nohup- 讓command在遠端執行，不因登出而中斷</title>
+  <link>http://turnps.github.io/http:/dragonspring.pixnet.net/blog/post/33257496-%5Blinux%5Btips%5Dnohup%3A-%E8%AE%93command%E5%9C%A8%E9%81%A0%E7%AB%AF%E5%9F%B7%E8%A1%8C%EF%BC%8C%E4%B8%8D%E5%9B%A0%E7%99%BB%E5%87%BA</link>
+  <author>Josh</author>
+  <pubDate>2013-10-17T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/dragonspring.pixnet.net/blog/post/33257496-%5Blinux%5Btips%5Dnohup%3A-%E8%AE%93command%E5%9C%A8%E9%81%A0%E7%AB%AF%E5%9F%B7%E8%A1%8C%EF%BC%8C%E4%B8%8D%E5%9B%A0%E7%99%BB%E5%87%BA</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>nohup- 背景執行，不中斷command</title>
+  <link>http://turnps.github.io/http:/checko.blogspot.tw/2005/10/nohup-command.html</link>
+  <author>Josh</author>
+  <pubDate>2013-06-10T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/checko.blogspot.tw/2005/10/nohup-command.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

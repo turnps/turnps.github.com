@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: git</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>寫改大家的Git教學</title>
+  <link>http://turnps.github.io/http:/www.slideshare.net/littlebtc/git-5528339</link>
+  <author>Josh</author>
+  <pubDate>2013-09-10T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.slideshare.net/littlebtc/git-5528339</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Git Tutorial</title>
+  <link>http://turnps.github.io/http:/www.slideshare.net/ihower/git-tutorial-13695342</link>
+  <author>Josh</author>
+  <pubDate>2013-09-10T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.slideshare.net/ihower/git-tutorial-13695342</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>版本控制系統 Git 精要</title>
+  <link>http://turnps.github.io/http:/ihower.tw/git/index.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-09T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/ihower.tw/git/index.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>GitHub Gist 在部落格、網頁中內嵌入高亮程式碼</title>
+  <link>http://turnps.github.io/http:/sofree.cc/github-gist/</link>
+  <author>Josh</author>
+  <pubDate>2013-09-05T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/sofree.cc/github-gist/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>利用 GitHub 建立自己的 PEAR 頻道</title>
+  <link>http://turnps.github.io/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</link>
+  <author>Josh</author>
+  <pubDate>2013-04-17T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>在windows上使用github 新手教學 / 初學者指南</title>
+  <link>http://turnps.github.io/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</link>
+  <author>Josh</author>
+  <pubDate>2013-04-17T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>GitHub - GitHub初體驗</title>
+  <link>http://turnps.github.io/http:/blog.sanc.idv.tw/2012/10/github-github.html</link>
+  <author>Josh</author>
+  <pubDate>2013-04-16T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.sanc.idv.tw/2012/10/github-github.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Github應用 架設純HTML網站</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/0f86d053-2d66-40da-b8ea-27de18f6f3c3/fc3645f463a250222219ceea3a92a4d6</link>
+  <author>Josh</author>
+  <pubDate>2013-04-16T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/0f86d053-2d66-40da-b8ea-27de18f6f3c3/fc3645f463a250222219ceea3a92a4d6</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Git 初學筆記 - 指令操作教學</title>
+  <link>http://turnps.github.io/http:/blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/</link>
+  <author>Josh</author>
+  <pubDate>2013-03-22T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Github 基礎教學網站</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276</link>
+  <author>Josh</author>
+  <pubDate>2012-10-31T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

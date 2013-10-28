@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: php</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>PHPDoctor</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/d800c5a7-cfa1-48f4-98e6-8fd9da07b58d/cfc1dd8fe8a7c422d872a9b321ac8319</link>
+  <author>Josh</author>
+  <pubDate>2013-09-18T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/d800c5a7-cfa1-48f4-98e6-8fd9da07b58d/cfc1dd8fe8a7c422d872a9b321ac8319</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>How to install Gearman on Ubuntu or Debian with MySQL 安裝測試篇</title>
+  <link>http://turnps.github.io/http:/blog.wu-boy.com/2013/06/how-to-install-gearman-on-ubuntu-or-debian-with-mysql/</link>
+  <author>Josh</author>
+  <pubDate>2013-08-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.wu-boy.com/2013/06/how-to-install-gearman-on-ubuntu-or-debian-with-mysql/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Gearman 心得</title>
+  <link>http://turnps.github.io/http:/www.jaceju.net/blog/archives/1211/</link>
+  <author>Josh</author>
+  <pubDate>2013-08-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.jaceju.net/blog/archives/1211/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Aptana Studio 3 安裝 PHP xDebug</title>
+  <link>http://turnps.github.io/http:/tatmingstudio.blogspot.tw/2012/05/aptana-studio-3-php-xdebug.html</link>
+  <author>Josh</author>
+  <pubDate>2013-08-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/tatmingstudio.blogspot.tw/2012/05/aptana-studio-3-php-xdebug.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Eclipse PDT + XDebug 環境建置說明 (windows)</title>
+  <link>http://turnps.github.io/http:/210.59.30.120/~hzenyi/blog/?p=235</link>
+  <author>Josh</author>
+  <pubDate>2013-08-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/210.59.30.120/~hzenyi/blog/?p=235</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>PHP 快速導覽 - 核心延伸函數 類別、物件相關 get_called_class()</title>
+  <link>http://turnps.github.io/http:/pydoing.blogspot.tw/2013/04/PHP-get-called-class.html</link>
+  <author>Josh</author>
+  <pubDate>2013-08-23T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/pydoing.blogspot.tw/2013/04/PHP-get-called-class.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>PHP Anonymous functions</title>
+  <link>http://turnps.github.io/http:/blog.johnsonlu.org/phpanonymous-functions/</link>
+  <author>Josh</author>
+  <pubDate>2013-08-23T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.johnsonlu.org/phpanonymous-functions/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>PHP 該用 Abstract Class 還是 Interface ？</title>
+  <link>http://turnps.github.io/http:/www.jaceju.net/blog/archives/235/</link>
+  <author>Josh</author>
+  <pubDate>2013-08-23T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.jaceju.net/blog/archives/235/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>REST and RESTfull</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/aa2426b1-10aa-47dc-950a-6a50e9f48bea/2a8fc4baced3d0c31dabf3e9fff8043e</link>
+  <author>Josh</author>
+  <pubDate>2013-07-18T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/aa2426b1-10aa-47dc-950a-6a50e9f48bea/2a8fc4baced3d0c31dabf3e9fff8043e</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用 APC 加速你的 PHP！</title>
+  <link>http://turnps.github.io/http:/blog.roachking.net/blog/2012/11/30/apc-for-faster-php/</link>
+  <author>Josh</author>
+  <pubDate>2013-07-12T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.roachking.net/blog/2012/11/30/apc-for-faster-php/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

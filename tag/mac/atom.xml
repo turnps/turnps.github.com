@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: mac</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>OS X Lion Mail 如何備份與還原</title>
+  <link>http://turnps.github.io/http:/samapplemac.blogspot.tw/2012/08/os-x-lion-mail.html</link>
+  <author>Josh</author>
+  <pubDate>2013-08-06T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/samapplemac.blogspot.tw/2012/08/os-x-lion-mail.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>mac擷取螢幕畫面</title>
+  <link>http://turnps.github.io/http:/www.apple.com/tw/findouthow/mac/#capturescreen</link>
+  <author>Josh</author>
+  <pubDate>2013-08-01T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.apple.com/tw/findouthow/mac/#capturescreen</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Homebrew 指令</title>
+  <link>http://turnps.github.io/http:/www.7headlines.com/article/show/209171621</link>
+  <author>Josh</author>
+  <pubDate>2013-06-14T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.7headlines.com/article/show/209171621</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>透過 homebrew 安裝特定版本套件</title>
+  <link>http://turnps.github.io/http:/blog.kuoe0.tw/posts/2013/04/19/install-formula-of-specific-version-with-homebrew</link>
+  <author>Josh</author>
+  <pubDate>2013-06-14T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.kuoe0.tw/posts/2013/04/19/install-formula-of-specific-version-with-homebrew</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>有趣的 Homebrew 命名邏輯</title>
+  <link>http://turnps.github.io/http:/wildjcrt.pixnet.net/blog/post/29182044-the-naming-logic-from-homebrew</link>
+  <author>Josh</author>
+  <pubDate>2013-06-14T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/wildjcrt.pixnet.net/blog/post/29182044-the-naming-logic-from-homebrew</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Homebrew</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/e5a56f1a-c915-4795-91df-0b8547ee30d6/11465a256c7b206d9ecec279cb30ba99</link>
+  <author>Josh</author>
+  <pubDate>2013-02-21T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/e5a56f1a-c915-4795-91df-0b8547ee30d6/11465a256c7b206d9ecec279cb30ba99</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Homebrew 讓 Mac OS X 輕鬆安裝軟體工具</title>
+  <link>http://turnps.github.io/http:/blog.lyhdev.com/2011/06/homebrew-mac-os-x.html</link>
+  <author>Josh</author>
+  <pubDate>2013-02-21T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.lyhdev.com/2011/06/homebrew-mac-os-x.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

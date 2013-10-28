@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://turnps.github.io - Tag: jekyll</title>
+   
+   <link>http://turnps.github.io</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>jekyll教學說明網頁</title>
+  <link>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/e5d315cf-e1ec-4908-b593-13459a8aa0d1/12962619ca84f8bfb3c46936f79591c1</link>
+  <author>Josh</author>
+  <pubDate>2013-09-30T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/https:/www.evernote.com/shard/s233/sh/e5d315cf-e1ec-4908-b593-13459a8aa0d1/12962619ca84f8bfb3c46936f79591c1</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>redcarpet 介紹(using and setting in jekyll)</title>
+  <link>http://turnps.github.io/http:/www.lijung.com/highlight/github/markdown/2013/06/22/redcarpet.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.lijung.com/highlight/github/markdown/2013/06/22/redcarpet.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>pygments</title>
+  <link>http://turnps.github.io/http:/www.lijung.com/highlight/github/markdown/2013/06/22/pygments.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.lijung.com/highlight/github/markdown/2013/06/22/pygments.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>用Jekyll和Pygments配置代码高亮</title>
+  <link>http://turnps.github.io/http:/zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/</link>
+  <author>Josh</author>
+  <pubDate>2013-09-26T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>MAC OS X 10.8 下安装jekyll</title>
+  <link>http://turnps.github.io/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-23T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用 Jekyll 與 GitHub Pages 架站</title>
+  <link>http://turnps.github.io/http:/blog.lyhdev.com/2012/02/jekyll-github-pages.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-03T00:00:00+08:00</pubDate>
+  <guid>http://turnps.github.io/http:/blog.lyhdev.com/2012/02/jekyll-github-pages.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

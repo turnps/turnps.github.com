@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-   	<title>http://turnps.github.io - Tag: nodejs</title>
+   	<title>http://www.vipjoshspace.com - Tag: nodejs</title>
    
-   <link>http://turnps.github.io</link>
+   <link>http://www.vipjoshspace.com</link>
    <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
    <language>zh-TW</language>
    <managingEditor>Josh</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
   <title>Node.js 連結Mysql</title>
-  <link>http://turnps.github.io/http:/blog.johnsonlu.org/node-js%E9%80%A3%E7%B5%90mysql/</link>
+  <link>http://www.vipjoshspace.com/http:/blog.johnsonlu.org/node-js%E9%80%A3%E7%B5%90mysql/</link>
   <author>Josh</author>
   <pubDate>2013-06-14T00:00:00+08:00</pubDate>
-  <guid>http://turnps.github.io/http:/blog.johnsonlu.org/node-js%E9%80%A3%E7%B5%90mysql/</guid>
+  <guid>http://www.vipjoshspace.com/http:/blog.johnsonlu.org/node-js%E9%80%A3%E7%B5%90mysql/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -24,10 +24,10 @@
 
 	<item>
   <title>node.js 之學習 Express 的筆記(3)-搭起資料庫的橋樑(使用MySQL)</title>
-  <link>http://turnps.github.io/http:/yiyingloveart.blogspot.tw/2013/06/nodejs-express-3-mysql.html</link>
+  <link>http://www.vipjoshspace.com/http:/yiyingloveart.blogspot.tw/2013/06/nodejs-express-3-mysql.html</link>
   <author>Josh</author>
   <pubDate>2013-06-14T00:00:00+08:00</pubDate>
-  <guid>http://turnps.github.io/http:/yiyingloveart.blogspot.tw/2013/06/nodejs-express-3-mysql.html</guid>
+  <guid>http://www.vipjoshspace.com/http:/yiyingloveart.blogspot.tw/2013/06/nodejs-express-3-mysql.html</guid>
   <description><![CDATA[
      
   ]]></description>

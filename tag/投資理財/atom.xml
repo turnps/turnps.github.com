@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-   	<title>http://turnps.github.io - Tag: 投資理財</title>
+   	<title>http://www.vipjoshspace.com - Tag: 投資理財</title>
    
-   <link>http://turnps.github.io</link>
+   <link>http://www.vipjoshspace.com</link>
    <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
    <language>zh-TW</language>
    <managingEditor>Josh</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
   <title>second</title>
-  <link>http://turnps.github.io/writings/2013/09/26/second/</link>
+  <link>http://www.vipjoshspace.com/writings/2013/09/26/second/</link>
   <author>Josh</author>
   <pubDate>2013-09-26T00:00:00+08:00</pubDate>
-  <guid>http://turnps.github.io/writings/2013/09/26/second/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/26/second/</guid>
   <description><![CDATA[
      <div class="highlight"><pre><code class="sh language-sh" data-lang="sh">echoavch
 </code></pre></div><div class="highlight"><pre><code class="java language-java" data-lang="java"><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>

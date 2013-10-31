@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-   	<title>http://turnps.github.io - Tag: 書本</title>
+   	<title>http://www.vipjoshspace.com - Tag: 書本</title>
    
-   <link>http://turnps.github.io</link>
+   <link>http://www.vipjoshspace.com</link>
    <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
    <language>zh-TW</language>
    <managingEditor>Josh</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
   <title>test</title>
-  <link>http://turnps.github.io/writings/2013/10/14/test/</link>
+  <link>http://www.vipjoshspace.com/writings/2013/10/14/test/</link>
   <author>Josh</author>
   <pubDate>2013-10-14T00:00:00+08:00</pubDate>
-  <guid>http://turnps.github.io/writings/2013/10/14/test/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/14/test/</guid>
   <description><![CDATA[
      <p>As I discussed earlier this year, [Media Temple has refreshed their VPS offerings], improving their underlying virtualization software, getting a more recent kernel, and otherwise polishing up the various bits. After slogging through the last couple months of my second child being born, I finally got my head above water and pulled the trigger on migrating to a new installation. I was on an old (ve), so I chose to go to a <a href="http://mediatemple.net/webhosting/vps/developer/">DV Developer</a>, Level 2.</p>
 
@@ -33,7 +33,7 @@
     <div class="noaligninner">
 
 <div class="img thumbnail alignnone">
-    <img src="http://turnps.github.io/assets/images/articles/misc/dv_stats.png" />
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_stats.png" />
     
 </div>
 
@@ -71,7 +71,7 @@
     <div class="noaligninner">
 
 <div class="img thumbnail alignnone">
-    <img src="http://turnps.github.io/assets/images/articles/misc/dv_admin_gui.png" />
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_admin_gui.png" />
     
 </div>
 
@@ -89,7 +89,7 @@
     <div class="noaligninner">
 
 <div class="img thumbnail alignnone">
-    <img src="http://turnps.github.io/assets/images/articles/misc/dv_power_panel.png" />
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_power_panel.png" />
     
 </div>
 

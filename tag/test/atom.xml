@@ -13,10 +13,10 @@
    
 	<item>
   <title>second</title>
-  <link>http://www.vipjoshspace.com/writings/2013/09/26/second/</link>
+  <link>http://www.vipjoshspace.com/writings/2013/11/01/second/</link>
   <author>Josh</author>
-  <pubDate>2013-09-26T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/09/26/second/</guid>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/01/second/</guid>
   <description><![CDATA[
      <div class="highlight"><pre><code class="sh language-sh" data-lang="sh">echoavch
 </code></pre></div><div class="highlight"><pre><code class="java language-java" data-lang="java"><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>

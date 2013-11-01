@@ -91,6 +91,8 @@ http://www.vipjoshspace.com/tag/web/index.html
 
 http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition
 http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247
+http://www.vipjoshspace.com/writings/2013/11/01/test/
+http://www.vipjoshspace.com/writings/2013/11/01/second/
 http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages
 http://www.vipjoshspace.com/http:/blog.hinablue.me/entry/css-media-query-tips
 http://www.vipjoshspace.com/http:/www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html
@@ -110,12 +112,10 @@ http://www.vipjoshspace.com/http:/blog.kenyang.net/2011/03/java-staticfinal.html
 http://www.vipjoshspace.com/http:/dragonspring.pixnet.net/blog/post/33257496-%5Blinux%5Btips%5Dnohup%3A-%E8%AE%93command%E5%9C%A8%E9%81%A0%E7%AB%AF%E5%9F%B7%E8%A1%8C%EF%BC%8C%E4%B8%8D%E5%9B%A0%E7%99%BB%E5%87%BA
 http://www.vipjoshspace.com/http:/csscoke.com/2013/10/17/css-layout-generator/
 http://www.vipjoshspace.com/http:/www.minwt.com/html/9289.html
-http://www.vipjoshspace.com/writings/2013/10/14/test/
 http://www.vipjoshspace.com/http:/fanchie.blogspot.tw/2008/05/html-xhtml-inline-elements.html
 http://www.vipjoshspace.com/http:/blog.fmbase.tw/2013/01/codeigniter_csrf_protection_with_ajax/
 http://www.vipjoshspace.com/http:/nelson.pixnet.net/blog/post/32374389
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/e5d315cf-e1ec-4908-b593-13459a8aa0d1/12962619ca84f8bfb3c46936f79591c1
-http://www.vipjoshspace.com/writings/2013/09/26/second/
 http://www.vipjoshspace.com/http:/zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/
 http://www.vipjoshspace.com/http:/www.lijung.com/highlight/github/markdown/2013/06/22/redcarpet.html
 http://www.vipjoshspace.com/http:/www.lijung.com/highlight/github/markdown/2013/06/22/pygments.html

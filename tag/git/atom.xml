@@ -12,11 +12,22 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-  <title>寫改大家的Git教學</title>
-  <link>http://www.vipjoshspace.com/http:/www.slideshare.net/littlebtc/git-5528339</link>
+  <title>Custom 404 Pages</title>
+  <link>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</link>
   <author>Josh</author>
-  <pubDate>2013-09-10T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.slideshare.net/littlebtc/git-5528339</guid>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Github 自定 Domain</title>
+  <link>http://www.vipjoshspace.com/http:/www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html</link>
+  <author>Josh</author>
+  <pubDate>2013-10-31T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -28,6 +39,17 @@
   <author>Josh</author>
   <pubDate>2013-09-10T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/http:/www.slideshare.net/ihower/git-tutorial-13695342</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>寫改大家的Git教學</title>
+  <link>http://www.vipjoshspace.com/http:/www.slideshare.net/littlebtc/git-5528339</link>
+  <author>Josh</author>
+  <pubDate>2013-09-10T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.slideshare.net/littlebtc/git-5528339</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -56,22 +78,22 @@
 </item>
 
 	<item>
-  <title>利用 GitHub 建立自己的 PEAR 頻道</title>
-  <link>http://www.vipjoshspace.com/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</link>
+  <title>在windows上使用github 新手教學 / 初學者指南</title>
+  <link>http://www.vipjoshspace.com/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</link>
   <author>Josh</author>
   <pubDate>2013-04-17T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</guid>
+  <guid>http://www.vipjoshspace.com/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</guid>
   <description><![CDATA[
      
   ]]></description>
 </item>
 
 	<item>
-  <title>在windows上使用github 新手教學 / 初學者指南</title>
-  <link>http://www.vipjoshspace.com/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</link>
+  <title>利用 GitHub 建立自己的 PEAR 頻道</title>
+  <link>http://www.vipjoshspace.com/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</link>
   <author>Josh</author>
   <pubDate>2013-04-17T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/</guid>
+  <guid>http://www.vipjoshspace.com/http:/www.jaceju.net/blog/archives/build-pear-channel-with-github/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -94,28 +116,6 @@
   <author>Josh</author>
   <pubDate>2013-04-16T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/0f86d053-2d66-40da-b8ea-27de18f6f3c3/fc3645f463a250222219ceea3a92a4d6</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Git 初學筆記 - 指令操作教學</title>
-  <link>http://www.vipjoshspace.com/http:/blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/</link>
-  <author>Josh</author>
-  <pubDate>2013-03-22T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Github 基礎教學網站</title>
-  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276</link>
-  <author>Josh</author>
-  <pubDate>2012-10-31T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276</guid>
   <description><![CDATA[
      
   ]]></description>

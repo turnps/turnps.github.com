@@ -12,6 +12,17 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+  <title>Java static,final 基本概念</title>
+  <link>http://www.vipjoshspace.com/http:/blog.kenyang.net/2011/03/java-staticfinal.html</link>
+  <author>Josh</author>
+  <pubDate>2013-10-21T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/blog.kenyang.net/2011/03/java-staticfinal.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>Eclipse~export成JAR檔</title>
   <link>http://www.vipjoshspace.com/http:/www.wretch.cc/blog/evan0412/12279067</link>
   <author>Josh</author>

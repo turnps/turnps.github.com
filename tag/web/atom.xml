@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: web</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>走錯路也要美美的-404網頁美化大展</title>
+  <link>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用 .htaccess 自訂404找不到網頁的頁面</title>
+  <link>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>取代 Blogger 搜尋小工具_新版Google 自訂搜尋</title>
+  <link>http://www.vipjoshspace.com/http:/wayne-fu.blogspot.tw/2013/03/blogger-google-custom-search.html</link>
+  <author>Josh</author>
+  <pubDate>2013-10-26T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/wayne-fu.blogspot.tw/2013/03/blogger-google-custom-search.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>快速幫你的Google提交Sitemap</title>
+  <link>http://www.vipjoshspace.com/http:/ladesignla.blogspot.tw/2009/11/google-bloggersitemap.html</link>
+  <author>Josh</author>
+  <pubDate>2013-10-26T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/ladesignla.blogspot.tw/2009/11/google-bloggersitemap.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用Web技術開發Mobile App</title>
+  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/97a8a30e-e7fb-4981-acc5-5a0d20531392/ebacde9fd57f852b698c7f515c1daeb0</link>
+  <author>Josh</author>
+  <pubDate>2013-10-22T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/97a8a30e-e7fb-4981-acc5-5a0d20531392/ebacde9fd57f852b698c7f515c1daeb0</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>免費樣板</title>
+  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/306a216d-1850-4e79-a41f-0ced9d18e8c1/da5be8811c8a5a9fb8268ec4e5bf089a</link>
+  <author>Josh</author>
+  <pubDate>2013-10-21T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/306a216d-1850-4e79-a41f-0ced9d18e8c1/da5be8811c8a5a9fb8268ec4e5bf089a</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

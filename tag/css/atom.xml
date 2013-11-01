@@ -12,6 +12,39 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+  <title>CSS Media Queries 介紹與基礎應用</title>
+  <link>http://www.vipjoshspace.com/http:/www.mukispace.com/css-media-queries-introduce-basic/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-31T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.mukispace.com/css-media-queries-introduce-basic/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>CSS Media Query 小撇步</title>
+  <link>http://www.vipjoshspace.com/http:/blog.hinablue.me/entry/css-media-query-tips</link>
+  <author>Josh</author>
+  <pubDate>2013-10-31T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/blog.hinablue.me/entry/css-media-query-tips</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>實作 Responsive Web Design 最重要的三個觀點</title>
+  <link>http://www.vipjoshspace.com/http:/www.mukispace.com/most-viewpoint-about-responsive-web-design/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-30T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.mukispace.com/most-viewpoint-about-responsive-web-design/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>CSS Layout 產生器</title>
   <link>http://www.vipjoshspace.com/http:/csscoke.com/2013/10/17/css-layout-generator/</link>
   <author>Josh</author>
@@ -34,11 +67,11 @@
 </item>
 
 	<item>
-  <title>[译]Google HTML/CSS Style Guide 谷歌代码风格指南</title>
-  <link>http://www.vipjoshspace.com/http:/www.ryanbay.com/?p=285</link>
+  <title>display:none和visibility:hidden的差別</title>
+  <link>http://www.vipjoshspace.com/http:/www.dotblogs.com.tw/kirkchen/archive/2009/12/22/12603.aspx</link>
   <author>Josh</author>
   <pubDate>2013-07-09T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.ryanbay.com/?p=285</guid>
+  <guid>http://www.vipjoshspace.com/http:/www.dotblogs.com.tw/kirkchen/archive/2009/12/22/12603.aspx</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -56,11 +89,11 @@
 </item>
 
 	<item>
-  <title>display:none和visibility:hidden的差別</title>
-  <link>http://www.vipjoshspace.com/http:/www.dotblogs.com.tw/kirkchen/archive/2009/12/22/12603.aspx</link>
+  <title>[译]Google HTML/CSS Style Guide 谷歌代码风格指南</title>
+  <link>http://www.vipjoshspace.com/http:/www.ryanbay.com/?p=285</link>
   <author>Josh</author>
   <pubDate>2013-07-09T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.dotblogs.com.tw/kirkchen/archive/2009/12/22/12603.aspx</guid>
+  <guid>http://www.vipjoshspace.com/http:/www.ryanbay.com/?p=285</guid>
   <description><![CDATA[
      
   ]]></description>

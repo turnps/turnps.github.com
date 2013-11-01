@@ -12,22 +12,11 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-  <title>5大瀏覽器跑HTML5測試</title>
-  <link>http://www.vipjoshspace.com/http:/www.techbang.com/posts/2717-5-big-browser-battle-was-html5-standard-test</link>
+  <title>HTML5趨勢發展與技術論譠</title>
+  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/a0e2ab67-333e-4f07-8f1d-8c17c98f9f34/2c58c57ceedef85a18cd302751022a0a</link>
   <author>Josh</author>
-  <pubDate>2013-03-20T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.techbang.com/posts/2717-5-big-browser-battle-was-html5-standard-test</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>HTML5教學-HTML5 網頁基本架構與範本(直接使用)</title>
-  <link>http://www.vipjoshspace.com/http:/www.minwt.com/html/4075.html</link>
-  <author>Josh</author>
-  <pubDate>2013-03-20T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.minwt.com/html/4075.html</guid>
+  <pubDate>2013-10-29T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/a0e2ab67-333e-4f07-8f1d-8c17c98f9f34/2c58c57ceedef85a18cd302751022a0a</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -45,11 +34,33 @@
 </item>
 
 	<item>
+  <title>HTML5教學-HTML5 網頁基本架構與範本(直接使用)</title>
+  <link>http://www.vipjoshspace.com/http:/www.minwt.com/html/4075.html</link>
+  <author>Josh</author>
+  <pubDate>2013-03-20T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.minwt.com/html/4075.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>HTML5入門教學</title>
   <link>http://www.vipjoshspace.com/http:/inspire.twgg.org/programming/html-css/item/389-html5-started-teaching.html</link>
   <author>Josh</author>
   <pubDate>2013-03-20T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/http:/inspire.twgg.org/programming/html-css/item/389-html5-started-teaching.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>5大瀏覽器跑HTML5測試</title>
+  <link>http://www.vipjoshspace.com/http:/www.techbang.com/posts/2717-5-big-browser-battle-was-html5-standard-test</link>
+  <author>Josh</author>
+  <pubDate>2013-03-20T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.techbang.com/posts/2717-5-big-browser-battle-was-html5-standard-test</guid>
   <description><![CDATA[
      
   ]]></description>

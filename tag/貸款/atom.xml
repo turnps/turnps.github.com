@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: 貸款</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>房屋貸款</title>
+  <link>http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE/</link>
+  <author>Josh</author>
+  <pubDate>2013-07-20T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>房屋貸款計算</title>
+  <link>http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE%E8%A8%88%E7%AE%97/</link>
+  <author>Josh</author>
+  <pubDate>2013-07-20T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE%E8%A8%88%E7%AE%97/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

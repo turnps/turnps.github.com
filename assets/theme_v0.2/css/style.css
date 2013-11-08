@@ -562,3 +562,30 @@ hr {
   }
 }
 */
+
+/*== WIDGET SECTION AREA ==*/
+.widget{width:98%;float:left;padding:0px 0px 35px 0px;margin:0px 2% 0px 2%; color:#727272;font-size:10pt;font-family: 'Open Sans', sans-serif;}
+.widget h3{color:#3a3a3a; font-family: 'Droid Sans', sans-serif !important;text-transform:uppercase;font-size:11pt;padding:0px 0px 10px 0px;margin:0px;}
+.widget p{color:#727272; font-size:10pt;}
+
+.widget ul{
+	width:100%;
+	float:left;
+	margin:0px;
+	padding:0px;
+	top:0px;
+	left:0px;
+}
+
+.widget ul li{
+	padding:10px 0px;
+	margin-left:10px; 
+	/*list-style-image: url(../img/li.png);*/
+	list-style-position: inside;
+	border-bottom: 1px dotted #808080;
+}
+
+.widget ul li a{color:#868686;font-family: 'Open Sans', sans-serif;font-size:10pt;text-decoration:none;}
+.widget ul li a:hover{color:#303030;}
+.widget ul li:last-child{border:0px;}
+/*== WIDGET SECTION AREA ==*/

@@ -12,11 +12,11 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-  <title>MAC OS X 10.8 下安装jekyll</title>
-  <link>http://www.vipjoshspace.com/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</link>
+  <title>給 Rails Developer 的基本SEO</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/</link>
   <author>Josh</author>
-  <pubDate>2013-09-23T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</guid>
+  <pubDate>2013-11-07T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -28,6 +28,17 @@
   <author>Josh</author>
   <pubDate>2013-09-23T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/http:/ihower.tw/rails3/installation.html</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>MAC OS X 10.8 下安装jekyll</title>
+  <link>http://www.vipjoshspace.com/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</link>
+  <author>Josh</author>
+  <pubDate>2013-09-23T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.blogways.net/blog/2013/04/08/install-jekyll-on-mac.html</guid>
   <description><![CDATA[
      
   ]]></description>

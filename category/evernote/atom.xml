@@ -12,6 +12,83 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+  <title>個人電話格式化</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/08/%E7%94%A8%E6%96%BC%E8%BC%B8%E5%85%A5%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%A9%B1%E7%AD%89%E9%9C%80%E8%A6%81%E8%A2%AB%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E8%B3%87%E6%96%99/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-08T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/08/%E7%94%A8%E6%96%BC%E8%BC%B8%E5%85%A5%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%A9%B1%E7%AD%89%E9%9C%80%E8%A6%81%E8%A2%AB%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E8%B3%87%E6%96%99/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Git 教學(1) Git 的基本使用</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-07T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>給 Rails Developer 的基本SEO</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-07T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Javascript .apply()應用實例</title>
+  <link>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>走錯路也要美美的-404網頁美化大展</title>
+  <link>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用 .htaccess 自訂404找不到網頁的頁面</title>
+  <link>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Custom 404 Pages</title>
+  <link>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>測試</title>
   <link>http://www.vipjoshspace.com/writings/2013/11/01/test/</link>
   <author>Josh</author>
@@ -117,50 +194,6 @@
 </item>
 
 	<item>
-  <title>走錯路也要美美的-404網頁美化大展</title>
-  <link>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</link>
-  <author>Josh</author>
-  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>使用 .htaccess 自訂404找不到網頁的頁面</title>
-  <link>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</link>
-  <author>Josh</author>
-  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Javascript .apply()應用實例</title>
-  <link>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</link>
-  <author>Josh</author>
-  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Custom 404 Pages</title>
-  <link>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</link>
-  <author>Josh</author>
-  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
   <title>CSS Media Queries 介紹與基礎應用</title>
   <link>http://www.vipjoshspace.com/http:/www.mukispace.com/css-media-queries-introduce-basic/</link>
   <author>Josh</author>
@@ -172,44 +205,11 @@
 </item>
 
 	<item>
-  <title>CSS Media Query 小撇步</title>
-  <link>http://www.vipjoshspace.com/http:/blog.hinablue.me/entry/css-media-query-tips</link>
-  <author>Josh</author>
-  <pubDate>2013-10-31T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/blog.hinablue.me/entry/css-media-query-tips</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
   <title>Github 自定 Domain</title>
   <link>http://www.vipjoshspace.com/http:/www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html</link>
   <author>Josh</author>
   <pubDate>2013-10-31T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/http:/www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>實作 Responsive Web Design 最重要的三個觀點</title>
-  <link>http://www.vipjoshspace.com/http:/www.mukispace.com/most-viewpoint-about-responsive-web-design/</link>
-  <author>Josh</author>
-  <pubDate>2013-10-30T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.mukispace.com/most-viewpoint-about-responsive-web-design/</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Android Home、Back鍵與Task、Activity、Intent用法筆記</title>
-  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c90b35b9-3f1b-4c92-8cbe-6015403e52ce/9398a22fc64ea8e438234c2d4d583018</link>
-  <author>Josh</author>
-  <pubDate>2013-10-29T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c90b35b9-3f1b-4c92-8cbe-6015403e52ce/9398a22fc64ea8e438234c2d4d583018</guid>
   <description><![CDATA[
      
   ]]></description>

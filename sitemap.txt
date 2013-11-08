@@ -1,5 +1,6 @@
 
 http://www.vipjoshspace.com/about.html
+http://www.vipjoshspace.com/archive/
 http://www.vipjoshspace.com/atom.xml
 http://www.vipjoshspace.com/cats_and_tags.html
 http://www.vipjoshspace.com/contact.html
@@ -29,6 +30,7 @@ http://www.vipjoshspace.com/page20/index.html
 http://www.vipjoshspace.com/page21/index.html
 http://www.vipjoshspace.com/page22/index.html
 http://www.vipjoshspace.com/page23/index.html
+http://www.vipjoshspace.com/page24/index.html
 http://www.vipjoshspace.com/category/book/atom.xml
 http://www.vipjoshspace.com/category/book/index.html
 http://www.vipjoshspace.com/category/evernote/atom.xml
@@ -150,6 +152,9 @@ http://www.vipjoshspace.com/tag/web/index.html
 http://www.vipjoshspace.com/tag/其他程式語言/atom.xml
 http://www.vipjoshspace.com/tag/其他程式語言/index.html
 
+http://www.vipjoshspace.com/writings/2013/11/08/%E7%94%A8%E6%96%BC%E8%BC%B8%E5%85%A5%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%A9%B1%E7%AD%89%E9%9C%80%E8%A6%81%E8%A2%AB%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E8%B3%87%E6%96%99/
+http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/
+http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/
 http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition
 http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247
 http://www.vipjoshspace.com/writings/2013/11/01/test/

@@ -12,6 +12,17 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+  <title>Git 教學(1) Git 的基本使用</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-07T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>Custom 404 Pages</title>
   <link>http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages</link>
   <author>Josh</author>
@@ -105,17 +116,6 @@
   <author>Josh</author>
   <pubDate>2013-04-16T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/http:/blog.sanc.idv.tw/2012/10/github-github.html</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Github應用 架設純HTML網站</title>
-  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/0f86d053-2d66-40da-b8ea-27de18f6f3c3/fc3645f463a250222219ceea3a92a4d6</link>
-  <author>Josh</author>
-  <pubDate>2013-04-16T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/0f86d053-2d66-40da-b8ea-27de18f6f3c3/fc3645f463a250222219ceea3a92a4d6</guid>
   <description><![CDATA[
      
   ]]></description>

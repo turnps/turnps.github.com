@@ -1281,8 +1281,30 @@
         <lastmod>2013-11-01T15:26:33+08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/
+        </loc>
+        <lastmod>2013-11-07T12:10:23+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/
+        </loc>
+        <lastmod>2013-11-07T11:35:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.vipjoshspace.com/writings/2013/11/08/%E7%94%A8%E6%96%BC%E8%BC%B8%E5%85%A5%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%A9%B1%E7%AD%89%E9%9C%80%E8%A6%81%E8%A2%AB%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E8%B3%87%E6%96%99/
+        </loc>
+        <lastmod>2013-11-08T11:22:32+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.vipjoshspace.com/about.html</loc>
         <lastmod>2013-11-01T10:54:49+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.vipjoshspace.com/archive/</loc>
+        <lastmod>2013-11-08T13:55:29+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.vipjoshspace.com/cats_and_tags.html</loc>
@@ -1294,7 +1316,7 @@
     </url>
     <url>
         <loc>http://www.vipjoshspace.com/</loc>
-        <lastmod>2013-11-06T16:01:32+08:00</lastmod>
+        <lastmod>2013-11-08T16:30:41+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.vipjoshspace.com/josh.html</loc>

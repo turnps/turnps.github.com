@@ -31,8 +31,9 @@ http://www.vipjoshspace.com/page21/index.html
 http://www.vipjoshspace.com/page22/index.html
 http://www.vipjoshspace.com/page23/index.html
 http://www.vipjoshspace.com/page24/index.html
-http://www.vipjoshspace.com/category/book/atom.xml
-http://www.vipjoshspace.com/category/book/index.html
+http://www.vipjoshspace.com/category/好文閱讀/atom.xml
+http://www.vipjoshspace.com/category/好文閱讀/index.html
+http://www.vipjoshspace.com/category/好文閱讀/page2/index.html
 http://www.vipjoshspace.com/category/evernote/atom.xml
 http://www.vipjoshspace.com/category/evernote/index.html
 http://www.vipjoshspace.com/category/evernote/page2/index.html
@@ -51,6 +52,8 @@ http://www.vipjoshspace.com/category/evernote/page14/index.html
 http://www.vipjoshspace.com/category/evernote/page15/index.html
 http://www.vipjoshspace.com/category/evernote/page16/index.html
 http://www.vipjoshspace.com/category/evernote/page17/index.html
+http://www.vipjoshspace.com/category/享樂生活/atom.xml
+http://www.vipjoshspace.com/category/享樂生活/index.html
 http://www.vipjoshspace.com/category/心理學/atom.xml
 http://www.vipjoshspace.com/category/心理學/index.html
 http://www.vipjoshspace.com/category/投資理財/atom.xml
@@ -60,42 +63,6 @@ http://www.vipjoshspace.com/category/投資理財/page3/index.html
 http://www.vipjoshspace.com/category/投資理財/page4/index.html
 http://www.vipjoshspace.com/category/投資理財/page5/index.html
 http://www.vipjoshspace.com/category/投資理財/page6/index.html
-http://www.vipjoshspace.com/category/好文閱讀/atom.xml
-http://www.vipjoshspace.com/category/好文閱讀/index.html
-http://www.vipjoshspace.com/category/好文閱讀/page2/index.html
-http://www.vipjoshspace.com/tag/test/atom.xml
-http://www.vipjoshspace.com/tag/test/index.html
-http://www.vipjoshspace.com/tag/投資理財/atom.xml
-http://www.vipjoshspace.com/tag/投資理財/index.html
-http://www.vipjoshspace.com/tag/書本/atom.xml
-http://www.vipjoshspace.com/tag/書本/index.html
-http://www.vipjoshspace.com/tag/色彩學/atom.xml
-http://www.vipjoshspace.com/tag/色彩學/index.html
-http://www.vipjoshspace.com/tag/證券知識/atom.xml
-http://www.vipjoshspace.com/tag/證券知識/index.html
-http://www.vipjoshspace.com/tag/證券知識/page2/index.html
-http://www.vipjoshspace.com/tag/贏家心法/atom.xml
-http://www.vipjoshspace.com/tag/贏家心法/index.html
-http://www.vipjoshspace.com/tag/理財文章/atom.xml
-http://www.vipjoshspace.com/tag/理財文章/index.html
-http://www.vipjoshspace.com/tag/房地產/atom.xml
-http://www.vipjoshspace.com/tag/房地產/index.html
-http://www.vipjoshspace.com/tag/網拍/atom.xml
-http://www.vipjoshspace.com/tag/網拍/index.html
-http://www.vipjoshspace.com/tag/保險/atom.xml
-http://www.vipjoshspace.com/tag/保險/index.html
-http://www.vipjoshspace.com/tag/投資觀念/atom.xml
-http://www.vipjoshspace.com/tag/投資觀念/index.html
-http://www.vipjoshspace.com/tag/投資工具/atom.xml
-http://www.vipjoshspace.com/tag/投資工具/index.html
-http://www.vipjoshspace.com/tag/稅務/atom.xml
-http://www.vipjoshspace.com/tag/稅務/index.html
-http://www.vipjoshspace.com/tag/證券法規/atom.xml
-http://www.vipjoshspace.com/tag/證券法規/index.html
-http://www.vipjoshspace.com/tag/貸款/atom.xml
-http://www.vipjoshspace.com/tag/貸款/index.html
-http://www.vipjoshspace.com/tag/會計知識/atom.xml
-http://www.vipjoshspace.com/tag/會計知識/index.html
 http://www.vipjoshspace.com/tag/程式文章/atom.xml
 http://www.vipjoshspace.com/tag/程式文章/index.html
 http://www.vipjoshspace.com/tag/程式文章/page2/index.html
@@ -151,14 +118,46 @@ http://www.vipjoshspace.com/tag/web/atom.xml
 http://www.vipjoshspace.com/tag/web/index.html
 http://www.vipjoshspace.com/tag/其他程式語言/atom.xml
 http://www.vipjoshspace.com/tag/其他程式語言/index.html
+http://www.vipjoshspace.com/tag/健康保健/atom.xml
+http://www.vipjoshspace.com/tag/健康保健/index.html
+http://www.vipjoshspace.com/tag/每日閱讀/atom.xml
+http://www.vipjoshspace.com/tag/每日閱讀/index.html
+http://www.vipjoshspace.com/tag/色彩學/atom.xml
+http://www.vipjoshspace.com/tag/色彩學/index.html
+http://www.vipjoshspace.com/tag/證券知識/atom.xml
+http://www.vipjoshspace.com/tag/證券知識/index.html
+http://www.vipjoshspace.com/tag/證券知識/page2/index.html
+http://www.vipjoshspace.com/tag/贏家心法/atom.xml
+http://www.vipjoshspace.com/tag/贏家心法/index.html
+http://www.vipjoshspace.com/tag/理財文章/atom.xml
+http://www.vipjoshspace.com/tag/理財文章/index.html
+http://www.vipjoshspace.com/tag/房地產/atom.xml
+http://www.vipjoshspace.com/tag/房地產/index.html
+http://www.vipjoshspace.com/tag/網拍/atom.xml
+http://www.vipjoshspace.com/tag/網拍/index.html
+http://www.vipjoshspace.com/tag/保險/atom.xml
+http://www.vipjoshspace.com/tag/保險/index.html
+http://www.vipjoshspace.com/tag/投資觀念/atom.xml
+http://www.vipjoshspace.com/tag/投資觀念/index.html
+http://www.vipjoshspace.com/tag/投資工具/atom.xml
+http://www.vipjoshspace.com/tag/投資工具/index.html
+http://www.vipjoshspace.com/tag/稅務/atom.xml
+http://www.vipjoshspace.com/tag/稅務/index.html
+http://www.vipjoshspace.com/tag/證券法規/atom.xml
+http://www.vipjoshspace.com/tag/證券法規/index.html
+http://www.vipjoshspace.com/tag/貸款/atom.xml
+http://www.vipjoshspace.com/tag/貸款/index.html
+http://www.vipjoshspace.com/tag/會計知識/atom.xml
+http://www.vipjoshspace.com/tag/會計知識/index.html
 
+http://www.vipjoshspace.com/writings/2013/11/11/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2%E5%A4%A7%E8%A3%81%E5%91%98%EF%BC%8C%E8%A1%80%E6%B7%8B%E6%BC%93%E7%9A%84%E6%95%99%E8%AE%AD-%E5%85%AC%E5%8F%B8%E5%8F%AA%E8%83%BD%E7%BB%99%E4%BD%A0%E4%BD%8D%E7%BD%AE%EF%BC%8C%E5%8D%B4%E6%97%A0%E6%B3%95%E7%BB%99%E4%BD%A0%E6%9C%AA%E6%9D%A5/
+http://www.vipjoshspace.com/writings/2013/11/11/%E5%8D%81%E5%89%87%E4%BE%86%E8%87%AA+Google%E3%80%81Pinterest+%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E9%87%91%E7%8E%89%E8%89%AF%E8%A8%80/
+http://www.vipjoshspace.com/writings/2013/11/11/iHerb%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E7%B6%B2%E7%AB%99/
 http://www.vipjoshspace.com/writings/2013/11/08/%E7%94%A8%E6%96%BC%E8%BC%B8%E5%85%A5%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%A9%B1%E7%AD%89%E9%9C%80%E8%A6%81%E8%A2%AB%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E8%B3%87%E6%96%99/
 http://www.vipjoshspace.com/writings/2013/11/07/%E7%B5%A6Rails_Developer%E7%9A%84%E5%9F%BA%E6%9C%ACSEO/
 http://www.vipjoshspace.com/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/
 http://www.vipjoshspace.com/http:/www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition
 http://www.vipjoshspace.com/http:/www.vixual.net/blog/archives/247
-http://www.vipjoshspace.com/writings/2013/11/01/test/
-http://www.vipjoshspace.com/writings/2013/11/01/second/
 http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx
 http://www.vipjoshspace.com/https:/help.github.com/articles/custom-404-pages
 http://www.vipjoshspace.com/writings/2013/11/01/CEO%E7%9A%84%E6%AF%8F%E9%80%B1%E6%B8%85%E5%96%AE/
@@ -169,7 +168,7 @@ http://www.vipjoshspace.com/http:/www.mukispace.com/css-media-queries-introduce-
 http://www.vipjoshspace.com/writings/2013/10/30/%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90%EF%BC%81%E5%B0%8D%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%BE%86%E8%AA%AA%E6%9C%80%E5%9B%B0%E9%9B%A3%E7%9A%84%E6%98%AF/
 http://www.vipjoshspace.com/http:/www.mukispace.com/most-viewpoint-about-responsive-web-design/
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/a0e2ab67-333e-4f07-8f1d-8c17c98f9f34/2c58c57ceedef85a18cd302751022a0a
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c90b35b9-3f1b-4c92-8cbe-6015403e52ce/9398a22fc64ea8e438234c2d4d583018
+http://www.vipjoshspace.com/Android Home、Back鍵與Task、Activity、Intent用法筆記
 http://www.vipjoshspace.com/http:/www.cnblogs.com/lhb25/archive/2013/01/08/raphael-js-reference.html
 http://www.vipjoshspace.com/http:/ladesignla.blogspot.tw/2009/11/google-bloggersitemap.html
 http://www.vipjoshspace.com/http:/wayne-fu.blogspot.tw/2013/03/blogger-google-custom-search.html
@@ -179,13 +178,13 @@ http://www.vipjoshspace.com/writings/2013/10/22/%E6%92%90%E8%B5%B7GitHub%E7%9A%8
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/97a8a30e-e7fb-4981-acc5-5a0d20531392/ebacde9fd57f852b698c7f515c1daeb0
 http://www.vipjoshspace.com/writings/2013/10/22/%E4%BD%8F%E5%87%B6%E5%AE%85%E4%B8%8D%E7%9F%A5%E9%81%93%EF%BC%9F%E3%80%8C%E7%8F%BE%E6%B3%81%E8%AA%AA%E6%98%8E%E6%9B%B8%E3%80%8D%E5%B0%8F%E5%BF%83%E6%9C%89%E9%99%B7%E9%98%B1/
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/306a216d-1850-4e79-a41f-0ced9d18e8c1/da5be8811c8a5a9fb8268ec4e5bf089a
-http://www.vipjoshspace.com/http:/blog.csdn.net/mingxunzh/article/details/5497948
+http://www.vipjoshspace.com/android中的后退键——onBackPressed()的使用
 http://www.vipjoshspace.com/http:/blog.kenyang.net/2011/03/java-staticfinal.html
 http://www.vipjoshspace.com/http:/dragonspring.pixnet.net/blog/post/33257496-%5Blinux%5Btips%5Dnohup%3A-%E8%AE%93command%E5%9C%A8%E9%81%A0%E7%AB%AF%E5%9F%B7%E8%A1%8C%EF%BC%8C%E4%B8%8D%E5%9B%A0%E7%99%BB%E5%87%BA
 http://www.vipjoshspace.com/http:/csscoke.com/2013/10/17/css-layout-generator/
 http://www.vipjoshspace.com/http:/www.minwt.com/html/9289.html
 http://www.vipjoshspace.com/http:/fanchie.blogspot.tw/2008/05/html-xhtml-inline-elements.html
-http://www.vipjoshspace.com/http:/blog.fmbase.tw/2013/01/codeigniter_csrf_protection_with_ajax/
+http://www.vipjoshspace.com/Codeigniter開啟CSRF保護時使用Ajax
 http://www.vipjoshspace.com/http:/nelson.pixnet.net/blog/post/32374389
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/e5d315cf-e1ec-4908-b593-13459a8aa0d1/12962619ca84f8bfb3c46936f79591c1
 http://www.vipjoshspace.com/writings/2013/09/26/%E8%AB%87%E5%A4%96%E8%A1%8C%E4%B8%BB%E5%B0%8E%E5%85%A7%E8%A1%8C%E4%BA%BA%E7%9A%84%E8%BB%9F%E9%AB%94%E6%A5%AD%E7%94%9F%E6%85%8B/
@@ -218,10 +217,10 @@ http://www.vipjoshspace.com/writings/2013/08/30/%E8%B2%B7%E5%9B%9E%E5%BA%AB%E8%9
 http://www.vipjoshspace.com/writings/2013/08/30/%E6%B8%9B%E8%B3%87%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%AB%87%E7%8F%BE%E9%87%91%E6%B8%9B%E8%B3%87%E8%88%87%E5%BD%8C%E8%A3%9C%E8%99%A7%E6%90%8D%E6%B8%9B%E8%B3%87/
 http://www.vipjoshspace.com/writings/2013/08/29/%E6%9C%9F%E8%B2%A8%E6%95%99%E5%AE%A4/
 http://www.vipjoshspace.com/writings/2013/08/28/%E8%82%A1%E7%A5%A8%E8%88%87%E8%82%A1%E7%A5%A8%E6%9C%9F%E8%B2%A8.%E5%B7%AE%E5%88%A5.%E5%84%AA%E7%BC%BA%E9%BB%9E%E5%9C%A8%E5%93%AA%E8%A3%A1%3F/
-http://www.vipjoshspace.com/http:/jacky-google-android.blogspot.tw/2010/07/thread.html
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/98ca04fc-3afe-4b7f-8c92-40fde3bdb7f9/b226947b1c2e1c3feb47f0aa241deff1
+http://www.vipjoshspace.com/如何掌握 Thread
+http://www.vipjoshspace.com/android udp監聽
 http://www.vipjoshspace.com/http:/www.wretch.cc/blog/evan0412/12279067
-http://www.vipjoshspace.com/http:/ephrain.pixnet.net/blog/post/46865320-%5Bandroid%5D-android-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%9A%E8%AE%93%E5%A4%96%E9%83%A8%E9%9B%BB%E8%85%A6%E5%8F%AF%E4%BB%A5%E9%80%A3%E5%88%B0
+http://www.vipjoshspace.com/Android 學習筆記：讓外部電腦可以連到模擬器內的網頁伺服器
 http://www.vipjoshspace.com/writings/2013/08/26/%E8%B2%B7%E8%B3%A3%E6%88%BF%E5%B1%8B%E6%89%80%E9%9C%80%E7%A8%85%E9%87%91/
 http://www.vipjoshspace.com/http:/blog.wu-boy.com/2013/06/how-to-install-gearman-on-ubuntu-or-debian-with-mysql/
 http://www.vipjoshspace.com/http:/www.jaceju.net/blog/archives/1211/
@@ -233,13 +232,13 @@ http://www.vipjoshspace.com/http:/pydoing.blogspot.tw/2013/04/PHP-get-called-cla
 http://www.vipjoshspace.com/writings/2013/08/22/%E8%AD%89%E5%88%B8%E9%AB%98%E7%B4%9A%E7%87%9F%E6%A5%AD%E5%93%A1%EF%BC%8C%E6%9C%9F%E8%B2%A8%E5%95%86%E7%87%9F%E6%A5%AD%E5%93%A1%E8%AD%89%E7%85%A7/
 http://www.vipjoshspace.com/writings/2013/08/22/%E6%9C%83%E8%A8%88%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%88%87%E5%80%9F%E8%B2%B8%E6%B3%95%E5%89%87/
 http://www.vipjoshspace.com/writings/2013/08/14/%E8%A9%95%E4%BC%B0%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E7%9A%84%E5%A5%BD%E5%B7%A5%E5%85%B7/
-http://www.vipjoshspace.com/http:/iamshiao.blogspot.tw/2010/12/androidhandlerthread.html
-http://www.vipjoshspace.com/http:/lp43.blogspot.tw/2012/03/android.html
-http://www.vipjoshspace.com/http:/my2drhapsody.blogspot.tw/2012/09/android.html
-http://www.vipjoshspace.com/http:/tomkuo139.blogspot.tw/2012/01/eclipse_6268.html
+http://www.vipjoshspace.com/使用Handler搭配Thread
+http://www.vipjoshspace.com/談談Android的螢幕解析度
+http://www.vipjoshspace.com/android 多國語言 values資料夾
+http://www.vipjoshspace.com/Eclipse 搜尋 and 搜尋清單
 http://www.vipjoshspace.com/writings/2013/08/06/OS+X+Lion+Mail+%E5%A6%82%E4%BD%95%E5%82%99%E4%BB%BD%E8%88%87%E9%82%84%E5%8E%9F/
-http://www.vipjoshspace.com/http:/blog.caesarchi.com/2010/08/codeigniter-urlindexphp.html
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c8080835-f29d-4754-bc01-cb638d85058d/3bb5a522537ddca44c7af470f0e042d7
+http://www.vipjoshspace.com/Codeigniter去掉index的更改方法
+http://www.vipjoshspace.com/Android開發環境設定
 http://www.vipjoshspace.com/writings/2013/08/01/mac%E6%93%B7%E5%8F%96%E8%9E%A2%E5%B9%95%E7%95%AB%E9%9D%A2/
 http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE%E8%A8%88%E7%AE%97/
 http://www.vipjoshspace.com/writings/2013/07/20/%E6%88%BF%E5%B1%8B%E8%B2%B8%E6%AC%BE/
@@ -247,8 +246,8 @@ http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/aa2426b1-10aa-
 http://www.vipjoshspace.com/writings/2013/07/17/%E8%A1%8C%E8%99%9F%E3%80%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E3%80%81%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B9%8B%E5%B7%AE%E7%95%B0/
 http://www.vipjoshspace.com/http:/blog.roachking.net/blog/2012/11/30/apc-for-faster-php/
 http://www.vipjoshspace.com/http:/blog.roodo.com/rocksaying/archives/2680742.html
-http://www.vipjoshspace.com/http:/blog.lupopi.com/2012/03/codeigniter.html
-http://www.vipjoshspace.com/http:/chihping.aflypen.com/3503.html
+http://www.vipjoshspace.com/CodeIgniter 的效能評估工具
+http://www.vipjoshspace.com/CodeIgniter 初階設定
 http://www.vipjoshspace.com/http:/blog.kejyun.com/2012/12/Tips-For-Use-MySQL-With-High-Performance.html#code
 http://www.vipjoshspace.com/http:/www.dotblogs.com.tw/kirkchen/archive/2009/12/22/12603.aspx
 http://www.vipjoshspace.com/http:/www.ryanbay.com/?p=285
@@ -344,14 +343,14 @@ http://www.vipjoshspace.com/writings/2013/02/21/Homebrew+%E8%AE%93+Mac+OS+X+%E8%
 http://www.vipjoshspace.com/writings/2013/02/21/Homebrew/
 http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-06-05-jquery-ready-vs-load.aspx
 http://www.vipjoshspace.com/http:/www.wretch.cc/blog/nidgetgod/7852524
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/60a5a1d9-2ecb-47c3-a3ae-ca8931001459/c89c31a452e5f1c45611003742562154
+http://www.vipjoshspace.com/ion_auth模組修改
 http://www.vipjoshspace.com/http:/blogger.azfabbrica.com/2012/03/md5-salt.html
 http://www.vipjoshspace.com/http:/syshen.cc/post/25986123419/javascript-this-bug
 http://www.vipjoshspace.com/writings/2013/01/30/%E5%88%B8%E8%B3%87%E6%AF%94/
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/53bc7039-0c0f-4c51-adc0-fcb5153b4131/1a5b13d96d5551c38d29931b4ec98708
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/6b883469-c5db-4223-ace6-cab05510f883/0f3277aa58aa61e3b1776fc250531f80
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/d0660679-38ad-44e4-ae12-9a3f4c3aba42/b0f75600db2395c0bdeccb3b59346ed5
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/55ff8bbc-c380-48db-bea7-1f05c724d7dd/ba2b553d96c601337f1494fd5fb236f0
+http://www.vipjoshspace.com/CodeIgniter URLs segment and query string混用
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/d15e2e37-0ca0-41ef-8c3a-fa56abd1bf45/a63b7bdf7e512ed72ddb470372cb6dd7
 http://www.vipjoshspace.com/http:/www.g78.net/?p=210
 http://www.vipjoshspace.com/http:/jsfiddle.net/
@@ -360,28 +359,28 @@ http://www.vipjoshspace.com/http:/boray06.blogspot.tw/2010/11/php-cache-no-cache
 http://www.vipjoshspace.com/http:/xox520.blogspot.com/2011/12/lightbox-jquery-effect-not-working.html
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/462a0627-c3a5-4a69-b2ad-e4fdd1b10c33/a362b7ce7f021fc7b9a5b9ee0def19a0
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/969ded20-f54a-44aa-b504-f326b91dd4b0/07e4534855edc642438d719b04a26087
+http://www.vipjoshspace.com/CI Internationalization (i18n) library for CodeIgniter 2
 http://www.vipjoshspace.com/http:/blog.longwin.com.tw/2009/01/php-get-directory-file-path-dirname-2008/
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/7eb35b82-aeca-466a-99c5-725a9f9141fd/f414cd76947dd9e18247953044245780
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/cbbdcc47-d75f-4c4d-a496-912a904148e3/8cdec56a2abeda20a1bcca3dc308b82d
+http://www.vipjoshspace.com/CI Facebook-SDK 模組
+http://www.vipjoshspace.com/CI  oauth2 資源使用模組
 http://www.vipjoshspace.com/http:/miggo.pixnet.net/blog/post/30799978-%5Bphp%E8%A7%80%E5%BF%B5%5Dself%E5%92%8C$this%E7%9A%84%E5%B7%AE%E7%95%B0
 http://www.vipjoshspace.com/http:/blog.buginception.com/blog/2012/01/22/why-use-yii
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/545dd079-a4d9-412c-9971-db0d41c5aa71/bb027a284947fcb6e2dff71d0089be8c
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c71edd77-e057-49fd-93fe-33e21c39ec79/888248239c7465e21173ae7271612a4d
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/2522b47f-ad15-4b92-913e-7141f749457d/9df9fdb1ffbc9b89be0526acc493eecc
+http://www.vipjoshspace.com/應用 Aptana Studio 開發 CodeIgniter 應用程式
 http://www.vipjoshspace.com/http:/blog.corausir.org/website-design/ausir-1217
 http://www.vipjoshspace.com/http:/twpug.net/docs/Subversion/
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/c2d7114a-e592-4f49-93ec-0a7fb318dade/588c70b36409b2e170179722005b34c4
 http://www.vipjoshspace.com/http:/maiamhere.blogspot.tw/2011/03/php-filtervar.html
 http://www.vipjoshspace.com/http:/php.net/manual/en/book.ctype.php
 http://www.vipjoshspace.com/http:/blog.mosil.biz/2012/07/autoload-of-php/
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/4ce318ca-87df-492a-b96d-7beaf48d2b65/a37f6c914e377df56c2a53f3d20a2857
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/2559ac6a-f5fc-4496-b952-6b0596340169/aacd440301a182adad662d82273e3887
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/daa90569-1404-4c33-9413-7238ae3b1b85/56d04a1831de3990575950d46622f949
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/6536fd89-9371-4f6f-91ae-477c02bf6852/38ac756a6b26b20e8cf99ca8cef0dead
+http://www.vipjoshspace.com/PHP Simple HTML DOM Parser
+http://www.vipjoshspace.com/CRUD model建立
+http://www.vipjoshspace.com/CI azot 資源檔載入模組
+http://www.vipjoshspace.com/CI ion_auth 帳號管理模組
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/467adb03-b61a-4fb2-b3c2-fde736e8389c/16d320a1e1d6f338875e710c596ad6e7
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/39a3cc2a-23d9-4190-8699-4be2df1af3dd/57effb2cc8865ffa00d08472230cf933
+http://www.vipjoshspace.com/CI Spark整合登入設定
 http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/d2163487-f2a2-492b-98c9-fea1e1cea88c/d39cd4840c4b92a231a203ee5782a023
 http://www.vipjoshspace.com/http:/injerry.pixnet.net/blog/post/39082306-%5Bphp%E6%95%99%E5%AD%B8%5D---%E5%88%9D%E5%AD%B8%E8%80%85%E6%9C%80%E6%98%93%E6%B7%B7%E6%B7%86%E7%9A%84include%E3%80%81include_once
-http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/381622b1-cbb0-46c8-b3fe-f05881bc84b5/64c88508333fd7049b1e79619680493a
-http://www.vipjoshspace.com/http:/www.grocerycrud.com/
+http://www.vipjoshspace.com/PHP CI 各式問題解決
+http://www.vipjoshspace.com/PHP CI grocerygrud

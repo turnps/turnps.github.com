@@ -108,6 +108,7 @@ task :redirect do
     post.puts 'author: false'
     post.puts "category: evernote"
 	post.puts "tags: #{tags}"
+	post.puts "permalink: "
     post.puts "new_url: "
     post.puts "published: true"
     post.puts "comments: true"

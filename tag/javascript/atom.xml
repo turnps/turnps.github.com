@@ -13,10 +13,10 @@
    
 	<item>
   <title>Javascript .apply()應用實例</title>
-  <link>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</link>
+  <link>http://www.vipjoshspace.com/writings/2013/11/01/Javascript.apply%28%29%E6%87%89%E7%94%A8%E5%AF%A6%E4%BE%8B/</link>
   <author>Josh</author>
   <pubDate>2013-11-01T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/blog.darkthread.net/post-2009-04-10-js-func-apply.aspx</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/01/Javascript.apply%28%29%E6%87%89%E7%94%A8%E5%AF%A6%E4%BE%8B/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -24,10 +24,10 @@
 
 	<item>
   <title>Gruntjs 介紹與使用</title>
-  <link>http://www.vipjoshspace.com/http:/www.lijung.com/grunt/javascript/2013/06/14/Gruntjs.html</link>
+  <link>http://www.vipjoshspace.com/writings/2013/09/26/Gruntjs%E4%BB%8B%E7%B4%B9%E8%88%87%E4%BD%BF%E7%94%A8/</link>
   <author>Josh</author>
   <pubDate>2013-09-26T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.lijung.com/grunt/javascript/2013/06/14/Gruntjs.html</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/26/Gruntjs%E4%BB%8B%E7%B4%B9%E8%88%87%E4%BD%BF%E7%94%A8/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -35,10 +35,10 @@
 
 	<item>
   <title>JavaScript與有限狀態機</title>
-  <link>http://www.vipjoshspace.com/http:/www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html</link>
+  <link>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</link>
   <author>Josh</author>
   <pubDate>2013-09-03T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -46,10 +46,10 @@
 
 	<item>
   <title>Javascript异步编程的4种方法</title>
-  <link>http://www.vipjoshspace.com/http:/www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html</link>
+  <link>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
   <author>Josh</author>
   <pubDate>2013-09-03T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -57,10 +57,10 @@
 
 	<item>
   <title>javascript網頁操作教學</title>
-  <link>http://www.vipjoshspace.com/http:/ant4js.blogspot.tw/2009/01/windowmthv2.html</link>
+  <link>http://www.vipjoshspace.com/writings/2013/06/27/javascript%E7%B6%B2%E9%A0%81%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8/</link>
   <author>Josh</author>
   <pubDate>2013-06-27T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/ant4js.blogspot.tw/2009/01/windowmthv2.html</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/06/27/javascript%E7%B6%B2%E9%A0%81%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -68,10 +68,10 @@
 
 	<item>
   <title>NodeJS - Stream行為觀察與事件使用</title>
-  <link>http://www.vipjoshspace.com/http:/scar.simcz.tw/article/2013/05/30/observe-and-using-node-js-stream-event/</link>
+  <link>http://www.vipjoshspace.com/writings/2013/06/14/NodeJS-Stream%E8%A1%8C%E7%82%BA%E8%A7%80%E5%AF%9F%E8%88%87%E4%BA%8B%E4%BB%B6%E4%BD%BF%E7%94%A8/</link>
   <author>Josh</author>
   <pubDate>2013-06-14T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/scar.simcz.tw/article/2013/05/30/observe-and-using-node-js-stream-event/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/06/14/NodeJS-Stream%E8%A1%8C%E7%82%BA%E8%A7%80%E5%AF%9F%E8%88%87%E4%BA%8B%E4%BB%B6%E4%BD%BF%E7%94%A8/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -79,10 +79,10 @@
 
 	<item>
   <title>好用的JSON.stringify(物件建立JSON字串)</title>
-  <link>http://www.vipjoshspace.com/http:/herolin.twbbs.org/entry/introduction-json-stringify-convert-string/</link>
+  <link>http://www.vipjoshspace.com/writings/2013/06/04/%E5%A5%BD%E7%94%A8%E7%9A%84JSON.stringify%28%E7%89%A9%E4%BB%B6%E5%BB%BA%E7%AB%8BJSON%E5%AD%97%E4%B8%B2%29/</link>
   <author>Josh</author>
   <pubDate>2013-06-04T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/herolin.twbbs.org/entry/introduction-json-stringify-convert-string/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/06/04/%E5%A5%BD%E7%94%A8%E7%9A%84JSON.stringify%28%E7%89%A9%E4%BB%B6%E5%BB%BA%E7%AB%8BJSON%E5%AD%97%E4%B8%B2%29/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -90,10 +90,10 @@
 
 	<item>
   <title>forEach 方法 (JavaScript)</title>
-  <link>http://www.vipjoshspace.com/http:/msdn.microsoft.com/zh-tw/library/ie/ff679980(v=vs.94).aspx</link>
+  <link>http://www.vipjoshspace.com/writings/2013/05/20/forEach%E6%96%B9%E6%B3%95%28JavaScript%29/</link>
   <author>Josh</author>
   <pubDate>2013-05-20T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/http:/msdn.microsoft.com/zh-tw/library/ie/ff679980(v=vs.94).aspx</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/05/20/forEach%E6%96%B9%E6%B3%95%28JavaScript%29/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -101,10 +101,10 @@
 
 	<item>
   <title>jQuery 與 jsonp</title>
-  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/fe735e7f-9dae-4bfc-aef8-32c2dedc2ef0/3ba2692c77e3d8b6604cfb59d5442c06</link>
+  <link>http://www.vipjoshspace.com/writings/2013/03/28/jQuery%E8%88%87jsonp/</link>
   <author>Josh</author>
   <pubDate>2013-03-28T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/fe735e7f-9dae-4bfc-aef8-32c2dedc2ef0/3ba2692c77e3d8b6604cfb59d5442c06</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/03/28/jQuery%E8%88%87jsonp/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -112,10 +112,10 @@
 
 	<item>
   <title>Polling, Comet, Long Polling, WebSocket</title>
-  <link>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/bc59cb03-a0f9-412e-816e-f2e50c6718c8/6ed2341871a04a7b4b23af83bf5d2bc0</link>
+  <link>http://www.vipjoshspace.com/writings/2013/03/27/Polling%2CComet%2CLong-Polling%2CWebSocket/</link>
   <author>Josh</author>
   <pubDate>2013-03-27T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/https:/www.evernote.com/shard/s233/sh/bc59cb03-a0f9-412e-816e-f2e50c6718c8/6ed2341871a04a7b4b23af83bf5d2bc0</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/03/27/Polling%2CComet%2CLong-Polling%2CWebSocket/</guid>
   <description><![CDATA[
      
   ]]></description>

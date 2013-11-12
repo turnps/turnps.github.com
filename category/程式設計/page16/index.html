@@ -1,0 +1,445 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <title></title>
+  
+  <meta name="author" content="Josh" />
+  <meta charset="UTF-8" />
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+  <link rel="shortcut icon" href="/favicon.gif" />
+  
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/style.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap-responsive.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
+  <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
+  
+  
+  
+  <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
+
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements & feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+  <script src="/theme_v0.2/js/modernizr-2.5.3.min.js"></script>
+  
+</head>
+<body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
+
+
+<div class="container">
+
+  <header>
+
+	<!-- navbar -->
+	<div id="topnav" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				
+				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+      
+				<!-- Collapse - Everything you want hidden at 940px or less, place within here -->
+      			<div class="nav-collapse">
+					<!-- Main nav -->
+					<ul  class="nav">
+						<li class="active"><a href="/">JOSH space*部落格</a></li>
+						<li><a href="/">關於</a></li>
+						<li><a href="/contact.html">聯絡我</a></li>
+						<li><a href="/archive">文件夾</a></li>
+						<li><a href="/search.html">搜尋</a></li>
+					</ul><!-- ENDS main nav -->
+				
+					<!-- Explore -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Explore<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/cats_and_tags.html#categories" ><i class="social-icon dribbble"></i> 目錄</a></li>
+								<li><a href="/cats_and_tags.html#tags" ><i class="social-icon forrst"></i> 標籤</a></li>
+                                <li class="divider"></li>
+                                <li><a href="/category/投資理財/" ><i class="social-icon myspace"></i> 投資理財</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Explore -->
+					
+					<!-- Feed -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Feed<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/atom.xml" ><i class="social-icon dribbble"></i> Everything</a></li>
+								<li><a href="/category/evernote/atom.xml" ><i class="social-icon forrst"></i> Evernote</a></li>
+								<li><a href="/category/book/atom.xml" ><i class="social-icon myspace"></i> Book</a></li>
+                                <li><a href="/tag/android/atom.xml" ><i class="social-icon myspace"></i> Android</a></li>
+                                <li><a href="/tag/css/atom.xml" ><i class="social-icon myspace"></i> Css</a></li>
+                                <li><a href="/tag/jekyll/atom.xml" ><i class="social-icon myspace"></i> Jekyll</a></li>
+                                <li><a href="/tag/php/atom.xml" ><i class="social-icon myspace"></i> php</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Feed -->
+                
+					<!-- social -->
+					<ul class="nav pull-right ">
+						<li class="divider-vertical"></li>
+						<li class="dropdown">
+							<a href="#"
+						  		class="dropdown-toggle"
+						  		data-toggle="dropdown">
+						  		Social
+						  		<b class="caret"></b>
+							</a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="http://www.facebook.com/vipjosh08" ><i class="social-icon facebook"></i> Facebook</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon vimeo"></i> Vimeo</a></li>
+								<li><a href="http://www.youtube.com" ><i class="social-icon youtube"></i> Youtube</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon tumblr"></i> Tumblr</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Social -->
+				
+				</div><!-- ENDS Collapse -->
+				
+			</div>
+		</div>
+	</div><!-- ENDS navbar -->
+
+	</header>
+	
+	
+	<!-- MAIN -->
+	<div id="main" role="main">
+		<div id="main" role="main">
+	<section id="info-section" class="information" >
+
+
+<div  class="page-header">
+	<h1>Category: <small>'程式設計'</small></h1>
+</div>
+
+
+<!-- Experience -->
+<div id="experience">
+	<table class="table experience-table">			  
+		<tbody>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://xox520.blogspot.com/2011/12/lightbox-jquery-effect-not-working.html" 
+			target="_blank">Jquery解決命名衝突</a>
+		</h3>
+		<span class="date"> November 16, 2012</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">javascript</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/11/16/Jquery%E8%A7%A3%E6%B1%BA%E5%91%BD%E5%90%8D%E8%A1%9D%E7%AA%81/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/11/16/Jquery%E8%A7%A3%E6%B1%BA%E5%91%BD%E5%90%8D%E8%A1%9D%E7%AA%81/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://xox520.blogspot.com/2011/12/lightbox-jquery-effect-not-working.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>Jquery解決命名衝突</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/462a0627-c3a5-4a69-b2ad-e4fdd1b10c33/a362b7ce7f021fc7b9a5b9ee0def19a0" 
+			target="_blank">jquery 套件</a>
+		</h3>
+		<span class="date"> November 13, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">js plugin</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/11/13/jquery%E5%A5%97%E4%BB%B6/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/11/13/jquery%E5%A5%97%E4%BB%B6/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/462a0627-c3a5-4a69-b2ad-e4fdd1b10c33/a362b7ce7f021fc7b9a5b9ee0def19a0" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>jquery 套件</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276" 
+			target="_blank">Github 基礎教學網站</a>
+		</h3>
+		<span class="date"> October 31, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/31/Github%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8%E7%B6%B2%E7%AB%99/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/31/Github%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8%E7%B6%B2%E7%AB%99/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/622ab497-2447-4d23-91dd-c59e6a51ba75/0ec97d8bdb40fceb7fde99facd7ef276" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>Github 基礎教學網站</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/969ded20-f54a-44aa-b504-f326b91dd4b0/07e4534855edc642438d719b04a26087" 
+			target="_blank">CI Internationalization (i18n) library for CodeIgniter 2</a>
+		</h3>
+		<span class="date"> October 26, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">codeigniter</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/26/CI_Internationalization%28i18n%29library_for_CodeIgniter+2/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/26/CI_Internationalization%28i18n%29library_for_CodeIgniter+2/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/969ded20-f54a-44aa-b504-f326b91dd4b0/07e4534855edc642438d719b04a26087" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>CI Internationalization (i18n) library for CodeIgniter 2</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/7eb35b82-aeca-466a-99c5-725a9f9141fd/f414cd76947dd9e18247953044245780" 
+			target="_blank">CI Facebook-SDK 模組</a>
+		</h3>
+		<span class="date"> October 24, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">codeigniter</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/24/CI_Facebook-SDK%E6%A8%A1%E7%B5%84/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/24/CI_Facebook-SDK%E6%A8%A1%E7%B5%84/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/7eb35b82-aeca-466a-99c5-725a9f9141fd/f414cd76947dd9e18247953044245780" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>CI Facebook-SDK 模組</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://blog.longwin.com.tw/2009/01/php-get-directory-file-path-dirname-2008/" 
+			target="_blank">PHP 如何取得 現在檔案的目錄 與 上層目錄</a>
+		</h3>
+		<span class="date"> October 24, 2012</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">php</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/24/PHP%E5%A6%82%E4%BD%95%E5%8F%96%E5%BE%97%E7%8F%BE%E5%9C%A8%E6%AA%94%E6%A1%88%E7%9A%84%E7%9B%AE%E9%8C%84%E8%88%87%E4%B8%8A%E5%B1%A4%E7%9B%AE%E9%8C%84/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/24/PHP%E5%A6%82%E4%BD%95%E5%8F%96%E5%BE%97%E7%8F%BE%E5%9C%A8%E6%AA%94%E6%A1%88%E7%9A%84%E7%9B%AE%E9%8C%84%E8%88%87%E4%B8%8A%E5%B1%A4%E7%9B%AE%E9%8C%84/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://blog.longwin.com.tw/2009/01/php-get-directory-file-path-dirname-2008/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>PHP 如何取得 現在檔案的目錄 與 上層目錄</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/cbbdcc47-d75f-4c4d-a496-912a904148e3/8cdec56a2abeda20a1bcca3dc308b82d" 
+			target="_blank">CI oauth2 資源使用模組</a>
+		</h3>
+		<span class="date"> October 23, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">codeigniter</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/23/CI_oauth2_%E8%B3%87%E6%BA%90%E4%BD%BF%E7%94%A8%E6%A8%A1%E7%B5%84/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/23/CI_oauth2_%E8%B3%87%E6%BA%90%E4%BD%BF%E7%94%A8%E6%A8%A1%E7%B5%84/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/cbbdcc47-d75f-4c4d-a496-912a904148e3/8cdec56a2abeda20a1bcca3dc308b82d" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>CI oauth2 資源使用模組</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://miggo.pixnet.net/blog/post/30799978-%5Bphp%E8%A7%80%E5%BF%B5%5Dself%E5%92%8C$this%E7%9A%84%E5%B7%AE%E7%95%B0" 
+			target="_blank">PHP觀念-self和$this的差異</a>
+		</h3>
+		<span class="date"> October 22, 2012</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">php</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/22/%5BPHP%E8%A7%80%E5%BF%B5%5Dself%E5%92%8C%24this%E7%9A%84%E5%B7%AE%E7%95%B0/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/22/%5BPHP%E8%A7%80%E5%BF%B5%5Dself%E5%92%8C%24this%E7%9A%84%E5%B7%AE%E7%95%B0/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://miggo.pixnet.net/blog/post/30799978-%5Bphp%E8%A7%80%E5%BF%B5%5Dself%E5%92%8C$this%E7%9A%84%E5%B7%AE%E7%95%B0" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>PHP觀念-self和$this的差異</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://blog.buginception.com/blog/2012/01/22/why-use-yii" 
+			target="_blank">YiiFramework簡介</a>
+		</h3>
+		<span class="date"> October 19, 2012</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">php</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/19/YiiFramework%E7%B0%A1%E4%BB%8B/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/19/YiiFramework%E7%B0%A1%E4%BB%8B/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://blog.buginception.com/blog/2012/01/22/why-use-yii" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>YiiFramework簡介</p>			      	
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://www.evernote.com/shard/s233/sh/545dd079-a4d9-412c-9971-db0d41c5aa71/bb027a284947fcb6e2dff71d0089be8c" 
+			target="_blank">PHP大師：寫出頂尖的程式碼</a>
+		</h3>
+		<span class="date"> October 17, 2012</span><p>
+		<span class="label label-success">Josh</span>
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">php</span>
+		
+		<span class="label label-warning"><a href="/writings/2012/10/17/PHP%E5%A4%A7%E5%B8%AB%EF%BC%9A%E5%AF%AB%E5%87%BA%E9%A0%82%E5%B0%96%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2012/10/17/PHP%E5%A4%A7%E5%B8%AB%EF%BC%9A%E5%AF%AB%E5%87%BA%E9%A0%82%E5%B0%96%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://www.evernote.com/shard/s233/sh/545dd079-a4d9-412c-9971-db0d41c5aa71/bb027a284947fcb6e2dff71d0089be8c" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td>
+		<p>PHP大師：寫出頂尖的程式碼</p>			      	
+	</td>
+</tr>
+			
+		</tbody>
+	</table>
+</div><!-- ENDS Experience -->
+
+
+
+<ul class="pager">
+<li class="previous">
+
+	<a href="/category/程式設計/page17" class="btn btn-default pull-left">&larr; Older</a>
+
+</li>
+<li class="next">
+
+	
+		<a href="/category/程式設計/page15" class="btn btn-default pull-right">Newer &rarr;</a>
+	
+
+</li>
+</ul>
+
+
+
+</section><!-- ENDS info -->
+</div>
+    
+	</div><!-- ENDS MAIN -->
+	
+	
+	<footer>
+		<hr/>
+		<p>© 2013 <a href="/" >JOSH space*部落格</a>。</p>
+	</footer>
+  	
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11617569-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	<!--<script type="text/javascript">
+	var disqus_shortname = 'hellovipjosh';
+
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script>
+-->
+</div>
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/theme_v0.2/js/jquery-1.7.1.min.js"><\/script>')</script>
+
+  <!-- scripts concatenated and minified via build script -->
+  <script src="/assets/theme_v0.2/js/plugins.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>
+
+  
+  <script src="/assets/theme_v0.2/js/custom.js"></script>
+  <!-- end scripts -->
+
+</body>
+</html>

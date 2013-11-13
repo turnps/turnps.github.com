@@ -538,7 +538,7 @@ hr {
   }
   .col-offset-4 {
     margin-left: 33.33333333333333%;
-  }
+  }
   .col-offset-5 {
     margin-left: 41.66666666666667%;
   }
@@ -589,3 +589,10 @@ hr {
 .widget ul li a:hover{color:#303030;}
 .widget ul li:last-child{border:0px;}
 /*== WIDGET SECTION AREA ==*/
+
+/*== ul li ==*/
+
+#summary ul li, td ul li{
+	padding:2px;
+}
+/*== ul li ==*/

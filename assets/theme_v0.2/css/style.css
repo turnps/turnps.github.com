@@ -91,7 +91,8 @@ hr {
   /* FOOTER ----------------------------------------------------*/
 }
 .container a {
-  color: #606060;
+  /*color: #606060;*/
+  color: #005580;
 }
 .container a:hover {
   color: #fe57a1;

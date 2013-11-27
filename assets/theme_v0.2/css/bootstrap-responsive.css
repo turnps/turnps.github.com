@@ -221,7 +221,7 @@
   }
   .span9 {
     /*width: 538px;*/
-    width: 716px;
+    width: 692px;
   }
   .span8 {
     width: 476px;
@@ -239,7 +239,8 @@
     width: 228px;
   }
   .span3 {
-    width: 166px;
+    /*width: 166px;*/
+    width: 190px;
   }
   .span2 {
     width: 104px;
@@ -536,7 +537,7 @@
   }
   .span9 {
     /*width: 870px;*/
-    width: 780px;
+    width: 760px;
   }
   .span8 {
     width: 770px;
@@ -555,7 +556,7 @@
   }
   .span3 {
     /*width: 270px;*/
-    width: 170px;
+    width: 190px;
   }
   .span2 {
     width: 170px;

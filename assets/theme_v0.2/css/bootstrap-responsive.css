@@ -154,7 +154,7 @@
   .row > [class*="span"],
   .row-fluid > [class*="span"] {
     float: none;
-    display: block;
+    /*display: block;*/
     width: auto;
     margin: 0;
   }
@@ -180,6 +180,12 @@
   .input-prepend input[class*="span"],
   .input-append input[class*="span"] {
     width: auto;
+  }
+  .sidebar {
+  	display: none;
+  }
+  .navbar .nav > li > a:hover {
+  	color: #fff;
   }
 }
 @media (min-width: 768px) and (max-width: 979px) {
@@ -214,7 +220,8 @@
     width: 600px;
   }
   .span9 {
-    width: 538px;
+    /*width: 538px;*/
+    width: 716px;
   }
   .span8 {
     width: 476px;
@@ -417,7 +424,7 @@
   .navbar .dropdown-menu a {
     padding: 6px 15px;
     font-weight: bold;
-    color: #999999;
+    color: #fff;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -480,6 +487,15 @@
     overflow: hidden;
     height: 0;
   }
+  .container #main {
+    margin-top: 0px;
+  }
+  .sidebar {
+  	display: none;
+  }
+  .navbar .nav > li > a:hover {
+  	color: #fff;
+  }
 }
 @media (min-width: 980px) {
   .nav-collapse.collapse {
@@ -519,7 +535,8 @@
     width: 970px;
   }
   .span9 {
-    width: 870px;
+    /*width: 870px;*/
+    width: 780px;
   }
   .span8 {
     width: 770px;
@@ -537,7 +554,8 @@
     width: 370px;
   }
   .span3 {
-    width: 270px;
+    /*width: 270px;*/
+    width: 170px;
   }
   .span2 {
     width: 170px;

@@ -615,4 +615,7 @@ hr {
 
 /*== ul li ==*/
 #summary ul li, td ul li{padding:2px;}
+#summary, #experience {
+	word-break: break-all;
+}
 /*== ul li ==*/

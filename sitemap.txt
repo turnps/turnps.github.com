@@ -5,7 +5,6 @@ http://www.vipjoshspace.com/atom.xml
 http://www.vipjoshspace.com/cats_and_tags.html
 http://www.vipjoshspace.com/contact.html
 http://www.vipjoshspace.com/index.html
-http://www.vipjoshspace.com/search.html
 http://www.vipjoshspace.com/sitemap.txt
 http://www.vipjoshspace.com/page2/index.html
 http://www.vipjoshspace.com/page3/index.html

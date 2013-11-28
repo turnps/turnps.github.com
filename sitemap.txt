@@ -1,6 +1,6 @@
 
 http://www.vipjoshspace.com/about.html
-http://www.vipjoshspace.com/archive/
+http://www.vipjoshspace.com/archive.html
 http://www.vipjoshspace.com/atom.xml
 http://www.vipjoshspace.com/cats_and_tags.html
 http://www.vipjoshspace.com/contact.html

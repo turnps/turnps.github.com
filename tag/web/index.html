@@ -23,17 +23,7 @@
   <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
   <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
   <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
-  
-  
-  
   <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
-
-  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-
-  <!-- All JavaScript at the bottom, except this Modernizr build.
-       Modernizr enables HTML5 elements & feature detects for optimal performance.
-       Create your own custom Modernizr build: www.modernizr.com/download/ -->
-  <script src="/theme_v0.2/js/modernizr-2.5.3.min.js"></script>
   
 </head>
 <body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
@@ -155,8 +145,8 @@
 		<!--<a href="http://www.techbang.com/posts/1872-taking-the-wrong-path-should-the-united-states-and-the-united-states-the-404-pages-beautify-exhibition" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>走錯路也要美美的-404網頁美化大展</p>			      	
+	<td class="post_at_index">
+		<p>走錯路也要美美的-404網頁美化大展</p>
 	</td>
 </tr>
 			
@@ -177,8 +167,8 @@
 		<!--<a href="http://www.vixual.net/blog/archives/247" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>使用 .htaccess 自訂404找不到網頁的頁面</p>			      	
+	<td class="post_at_index">
+		<p>使用 .htaccess 自訂404找不到網頁的頁面</p>
 	</td>
 </tr>
 			
@@ -199,8 +189,8 @@
 		<!--<a href="http://wayne-fu.blogspot.tw/2013/03/blogger-google-custom-search.html" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>取代 Blogger 搜尋小工具_新版Google 自訂搜尋</p>			      	
+	<td class="post_at_index">
+		<p>取代 Blogger 搜尋小工具_新版Google 自訂搜尋</p>
 	</td>
 </tr>
 			
@@ -221,8 +211,8 @@
 		<!--<a href="http://ladesignla.blogspot.tw/2009/11/google-bloggersitemap.html" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>快速幫你的Google提交Sitemap</p>			      	
+	<td class="post_at_index">
+		<p>快速幫你的Google提交Sitemap</p>
 	</td>
 </tr>
 			
@@ -243,8 +233,8 @@
 		<!--<a href="https://www.evernote.com/shard/s233/sh/97a8a30e-e7fb-4981-acc5-5a0d20531392/ebacde9fd57f852b698c7f515c1daeb0" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>使用Web技術開發Mobile App</p>			      	
+	<td class="post_at_index">
+		<p>使用Web技術開發Mobile App</p>
 	</td>
 </tr>
 			
@@ -265,8 +255,8 @@
 		<!--<a href="https://www.evernote.com/shard/s233/sh/306a216d-1850-4e79-a41f-0ced9d18e8c1/da5be8811c8a5a9fb8268ec4e5bf089a" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>免費樣板</p>			      	
+	<td class="post_at_index">
+		<p>免費樣板</p>
 	</td>
 </tr>
 			
@@ -340,14 +330,18 @@
   <!-- scripts concatenated and minified via build script -->
   <script src="/assets/theme_v0.2/js/plugins.js"></script>
   <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>-->
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>-->
   <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>
-
-  
-  <script src="/assets/theme_v0.2/js/custom.js"></script>
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/custom.js"></script>-->
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>-->
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  </script>
   <!-- end scripts -->
 
 </body>

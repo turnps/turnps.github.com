@@ -23,17 +23,7 @@
   <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
   <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
   <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
-  
-  
-  
   <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
-
-  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-
-  <!-- All JavaScript at the bottom, except this Modernizr build.
-       Modernizr enables HTML5 elements & feature detects for optimal performance.
-       Create your own custom Modernizr build: www.modernizr.com/download/ -->
-  <script src="/theme_v0.2/js/modernizr-2.5.3.min.js"></script>
   
 </head>
 <body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
@@ -155,8 +145,8 @@
 		<!--<a href="http://www.wretch.cc/blog/nidgetgod/7852524" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>Javascript 中實現 sleep 的方法</p>			      	
+	<td class="post_at_index">
+		<p>Javascript 中實現 sleep 的方法</p>
 	</td>
 </tr>
 			
@@ -177,8 +167,8 @@
 		<!--<a href="http://syshen.cc/post/25986123419/javascript-this-bug" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>Javascript 的 this</p>			      	
+	<td class="post_at_index">
+		<p>Javascript 的 this</p>
 	</td>
 </tr>
 			
@@ -199,8 +189,8 @@
 		<!--<a href="https://www.evernote.com/shard/s233/sh/53bc7039-0c0f-4c51-adc0-fcb5153b4131/1a5b13d96d5551c38d29931b4ec98708" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>Backbone JS</p>			      	
+	<td class="post_at_index">
+		<p>Backbone JS</p>
 	</td>
 </tr>
 			
@@ -221,8 +211,8 @@
 		<!--<a href="http://www.g78.net/?p=210" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>去除CKEditor自动添加的p</p>			      	
+	<td class="post_at_index">
+		<p>去除CKEditor自动添加的p</p>
 	</td>
 </tr>
 			
@@ -243,8 +233,8 @@
 		<!--<a href="http://jsfiddle.net/" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>javascript, css, html語法測試網站</p>			      	
+	<td class="post_at_index">
+		<p>javascript, css, html語法測試網站</p>
 	</td>
 </tr>
 			
@@ -265,8 +255,8 @@
 		<!--<a href="http://ajaxload.info/" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>ajaxload等待圖片產生器</p>			      	
+	<td class="post_at_index">
+		<p>ajaxload等待圖片產生器</p>
 	</td>
 </tr>
 			
@@ -287,8 +277,8 @@
 		<!--<a href="http://xox520.blogspot.com/2011/12/lightbox-jquery-effect-not-working.html" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>Jquery解決命名衝突</p>			      	
+	<td class="post_at_index">
+		<p>Jquery解決命名衝突</p>
 	</td>
 </tr>
 			
@@ -309,8 +299,8 @@
 		<!--<a href="https://www.evernote.com/shard/s233/sh/c71edd77-e057-49fd-93fe-33e21c39ec79/888248239c7465e21173ae7271612a4d" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>MooTools</p>			      	
+	<td class="post_at_index">
+		<p>MooTools</p>
 	</td>
 </tr>
 			
@@ -386,14 +376,18 @@
   <!-- scripts concatenated and minified via build script -->
   <script src="/assets/theme_v0.2/js/plugins.js"></script>
   <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>-->
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>-->
   <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>
-
-  
-  <script src="/assets/theme_v0.2/js/custom.js"></script>
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/custom.js"></script>-->
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>-->
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  </script>
   <!-- end scripts -->
 
 </body>

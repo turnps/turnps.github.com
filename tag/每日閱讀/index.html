@@ -23,17 +23,7 @@
   <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
   <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
   <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
-  
-  
-  
   <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
-
-  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-
-  <!-- All JavaScript at the bottom, except this Modernizr build.
-       Modernizr enables HTML5 elements & feature detects for optimal performance.
-       Create your own custom Modernizr build: www.modernizr.com/download/ -->
-  <script src="/theme_v0.2/js/modernizr-2.5.3.min.js"></script>
   
 </head>
 <body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
@@ -155,8 +145,8 @@
 		<!--<a href="http://mag.udn.com/mag/news/storypage.jsp?f_ART_ID=484732" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>從台灣科研單位的工作分工，與兩岸的研發差異比較，找出競爭落後的原因，同時點出台灣所能改善的方向，呼籲教育部與國科會正視目前扭曲的狀況</p>			      	
+	<td class="post_at_index">
+		<p>從台灣科研單位的工作分工，與兩岸的研發差異比較，找出競爭落後的原因，同時點出台灣所能改善的方向，呼籲教育部與國科會正視目前扭曲的狀況</p>
 	</td>
 </tr>
 			
@@ -177,8 +167,8 @@
 		<!--<a href="http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MTUzNzEyMQ%3D%3D&appmsgid=10000876&itemidx=1&sign=306d8e455517b619eba83406c2a5dd3d&scene=2&uin=MTE4OTQ1&key=83cac69b5bc39f18f769365aa1bd22276432b09a7c9f56f82f7d8257628a1f10340ca4bdd52451c085db16dac4094a03a1ed54066725d62f1feed719b5c9c040ed8f7ce942f7d2b5352ff8a0d972b5108396ba907b0752e6283e143dcd9e9dcc028d593245bc2498372a32253b931fa419fc1eae67be22eafcbacfa179776f80&devicetype=iPhone+OS7.0.3&version=15000311&lang=zh_TW" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>联想集团大裁员，血淋漓的教训：公司只能给你位置，却无法给你未来</p>			      	
+	<td class="post_at_index">
+		<p>联想集团大裁员，血淋漓的教训：公司只能给你位置，却无法给你未来</p>
 	</td>
 </tr>
 			
@@ -199,8 +189,8 @@
 		<!--<a href="http://www.businessweekly.com.tw/KBlogArticle.aspx?ID=5222&pnumber=1" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>工作一年、三年、十年的人，離職時該注意的事</p>			      	
+	<td class="post_at_index">
+		<p>工作一年、三年、十年的人，離職時該注意的事</p>
 	</td>
 </tr>
 			
@@ -221,8 +211,8 @@
 		<!--<a href="http://www.inside.com.tw/2013/11/11/10-best-practices-from-top-coders-at-google-pinterest-more" 
 			target="_blank"><small>MORE &rarr;</small></a>-->
 	</td>
-	<td>
-		<p>十則來自 Google、Pinterest 工程師的金玉良言</p>			      	
+	<td class="post_at_index">
+		<p>十則來自 Google、Pinterest 工程師的金玉良言</p>
 	</td>
 </tr>
 			
@@ -296,14 +286,18 @@
   <!-- scripts concatenated and minified via build script -->
   <script src="/assets/theme_v0.2/js/plugins.js"></script>
   <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-scrollspy.js"></script>-->
+  <!--<script src="/assets/theme_v0.2/js/bootstrap-tab.js"></script>-->
   <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>
-
-  
-  <script src="/assets/theme_v0.2/js/custom.js"></script>
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/custom.js"></script>-->
+  <!--<script type="text/javascript" src="/assets/theme_v0.2/js/form-validation.js"></script>-->
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  </script>
   <!-- end scripts -->
 
 </body>

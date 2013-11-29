@@ -3206,6 +3206,7 @@ input[type="submit"].btn.btn-mini {
   margin-bottom: 18px;
   list-style: none;
   text-align: center;
+  clear: both;
   *zoom: 1;
 }
 .pager:before,

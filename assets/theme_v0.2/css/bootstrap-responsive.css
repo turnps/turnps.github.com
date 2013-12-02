@@ -181,12 +181,6 @@
   .input-append input[class*="span"] {
     width: auto;
   }
-  .sidebar {
-  	display: none;
-  }
-  .navbar .nav > li > a:hover {
-  	color: #fff;
-  }
 }
 @media (min-width: 768px) and (max-width: 979px) {
   .row {
@@ -220,8 +214,7 @@
     width: 600px;
   }
   .span9 {
-    /*width: 538px;*/
-    width: 692px;
+    width: 538px;
   }
   .span8 {
     width: 476px;
@@ -239,8 +232,7 @@
     width: 228px;
   }
   .span3 {
-    /*width: 166px;*/
-    width: 190px;
+    width: 166px;
   }
   .span2 {
     width: 104px;
@@ -491,12 +483,6 @@
   .container #main {
     margin-top: 0px;
   }
-  .sidebar {
-  	display: none;
-  }
-  .navbar .nav > li > a:hover {
-  	color: #fff;
-  }
 }
 @media (min-width: 980px) {
   .nav-collapse.collapse {
@@ -536,8 +522,7 @@
     width: 970px;
   }
   .span9 {
-    /*width: 870px;*/
-    width: 760px;
+    width: 870px;
   }
   .span8 {
     width: 770px;
@@ -555,8 +540,7 @@
     width: 370px;
   }
   .span3 {
-    /*width: 270px;*/
-    width: 190px;
+    width: 270px;
   }
   .span2 {
     width: 170px;

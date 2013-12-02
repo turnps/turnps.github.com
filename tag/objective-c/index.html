@@ -34,11 +34,6 @@
   <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
   <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
   <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
-  <script>
-    	$(document.links).filter(function() {
-    		return this.hostname != window.location.hostname;
-		}).attr('target', '_blank');
-  </script>
   <!-- end scripts -->
 </head>
 <body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
@@ -248,5 +243,11 @@
 </script>
 -->
 </div>
+	<!--外部連結另開視窗-->
+	<script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  	</script><!--ENDS 外部連結另開視窗-->
 </body>
 </html>

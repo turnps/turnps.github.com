@@ -26,7 +26,7 @@ $(function() {
       return len;
     }
     $('.post_at_index').each(function() {
-      traverse($(this), 0, 120);
+      traverse($(this), 0, 150);
       /*var thisUrl = $(this).siblings().first().children().attr('href');
       $(this).after('\n<a href="' + thisUrl + '" rel="nofollow">' + 'Read More ...</a>');
       */

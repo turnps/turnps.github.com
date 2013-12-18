@@ -12,11 +12,11 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-  <title>Android 生命週期</title>
-  <link>http://www.vipjoshspace.com/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/</link>
+  <title>解决android.os.NetworkOnMainThreadException</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/09/%E8%A7%A3%E5%86%B3android.os.NetworkOnMainThreadException/</link>
   <author>Josh</author>
   <pubDate>2013-12-09T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/09/%E8%A7%A3%E5%86%B3android.os.NetworkOnMainThreadException/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -39,6 +39,17 @@
   <author>Josh</author>
   <pubDate>2013-12-09T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/writings/2013/12/09/Android%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E4%BD%BF%E7%94%A8Timer%E7%89%A9%E4%BB%B6/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Android 生命週期</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-09T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -83,17 +94,6 @@
   <author>Josh</author>
   <pubDate>2013-12-09T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/writings/2013/12/09/%5BAndroid%5D%E4%BD%BF%E7%94%A8HTTP%E7%9A%84POST%E6%96%B9%E5%BC%8F%E5%92%8C%E7%B6%B2%E9%A0%81%E8%A1%A8%E5%96%AE%E6%BA%9D%E9%80%9A-%E5%8A%A0%E4%B8%8A%E8%B3%87%E6%96%99%E5%BA%AB%E3%80%81%E5%9F%B7%E8%A1%8C%E7%B7%92/</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>解决android.os.NetworkOnMainThreadException</title>
-  <link>http://www.vipjoshspace.com/writings/2013/12/09/%E8%A7%A3%E5%86%B3android.os.NetworkOnMainThreadException/</link>
-  <author>Josh</author>
-  <pubDate>2013-12-09T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/12/09/%E8%A7%A3%E5%86%B3android.os.NetworkOnMainThreadException/</guid>
   <description><![CDATA[
      
   ]]></description>

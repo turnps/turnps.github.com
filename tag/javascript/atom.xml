@@ -12,6 +12,17 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+  <title>Google Map API - 計算兩地距離</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/03/Google+Map-API-%E8%A8%88%E7%AE%97%E5%85%A9%E5%9C%B0%E8%B7%9D%E9%9B%A2/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-03T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/03/Google+Map-API-%E8%A8%88%E7%AE%97%E5%85%A9%E5%9C%B0%E8%B7%9D%E9%9B%A2/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
   <title>Javascript .apply()應用實例</title>
   <link>http://www.vipjoshspace.com/writings/2013/11/01/Javascript.apply%28%29%E6%87%89%E7%94%A8%E5%AF%A6%E4%BE%8B/</link>
   <author>Josh</author>
@@ -34,22 +45,22 @@
 </item>
 
 	<item>
-  <title>JavaScript與有限狀態機</title>
-  <link>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</link>
+  <title>Javascript异步编程的4种方法</title>
+  <link>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
   <author>Josh</author>
   <pubDate>2013-09-03T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
   <description><![CDATA[
      
   ]]></description>
 </item>
 
 	<item>
-  <title>Javascript异步编程的4种方法</title>
-  <link>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
+  <title>JavaScript與有限狀態機</title>
+  <link>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</link>
   <author>Josh</author>
   <pubDate>2013-09-03T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/09/03/Javascript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/03/JavaScript%E8%88%87%E6%9C%89%E9%99%90%E7%8B%80%E6%85%8B%E6%A9%9F/</guid>
   <description><![CDATA[
      
   ]]></description>
@@ -105,17 +116,6 @@
   <author>Josh</author>
   <pubDate>2013-03-28T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/writings/2013/03/28/jQuery%E8%88%87jsonp/</guid>
-  <description><![CDATA[
-     
-  ]]></description>
-</item>
-
-	<item>
-  <title>Polling, Comet, Long Polling, WebSocket</title>
-  <link>http://www.vipjoshspace.com/writings/2013/03/27/Polling%2CComet%2CLong-Polling%2CWebSocket/</link>
-  <author>Josh</author>
-  <pubDate>2013-03-27T00:00:00+08:00</pubDate>
-  <guid>http://www.vipjoshspace.com/writings/2013/03/27/Polling%2CComet%2CLong-Polling%2CWebSocket/</guid>
   <description><![CDATA[
      
   ]]></description>

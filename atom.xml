@@ -19,7 +19,7 @@
   <pubDate>2015-04-21T00:00:00+08:00</pubDate>
   <guid>http://www.vipjoshspace.com/writings/2015/04/21/hello/</guid>
   <description><![CDATA[
-     <p>hello world 2015!!!</p>
+     <p>hello world 2015!!!!</p>
 <div class="highlight"><pre><code class="sh language-sh" data-lang="sh">echoavch
 </code></pre></div><div class="highlight"><pre><code class="java language-java" data-lang="java"><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>
     <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="n">args</span><span class="o">[])</span> <span class="o">{</span>

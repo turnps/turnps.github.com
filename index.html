@@ -1,479 +1,113 @@
-<!doctype html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-  <title>JOSH space*部落格</title>
-  <meta name="description" content="Hello, i am Josh! I love 吃美食、看電影、旅遊 and 閱讀" />
-  <meta name="author" content="Josh" />
-  <meta charset="UTF-8" />
+<!DOCTYPE html>
+<html>
+  <head>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-  <!-- Mobile viewport optimized: h5bp.com/viewport -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josh</title>
 
-  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  
-  <link rel="stylesheet" href="/assets/theme_v0.2/css/style.css">
-  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap.css">
-  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap-responsive.css">
-  <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
-  <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
-  <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
-  <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
-  
-  <!-- JavaScript at the top for fast page loading -->
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/assets/theme_v0.2/js/jquery-1.7.1.min.js"><\/script>')</script>
-  <!-- scripts concatenated and minified via build script -->
-  <script src="/assets/theme_v0.2/js/plugins.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
-  <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
-  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
-  <!-- end scripts -->
-</head>
-<body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/soon.css" rel="stylesheet">
 
 
-<div class="container">
-
-  <header>
-
-	<!-- navbar -->
-	<div id="topnav" class="navbar navbar-fixed-top">
-		<div class="navbar-inner">
-			<div class="container">
-				
-				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</a>
-      
-				<!-- Collapse - Everything you want hidden at 940px or less, place within here -->
-      			<div class="nav-collapse">
-					<!-- Main nav -->
-					<ul  class="nav">
-						<li class="active"><a href="/">JOSH space*部落格</a></li>
-						<li><a href="/about.html">關於</a></li>
-						<li><a href="/contact.html">聯絡我</a></li>
-						<li><a href="/archive.html">文件夾</a></li>
-					</ul><!-- ENDS main nav -->
-				
-					<!-- Explore -->
-					<ul class="nav">
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">目錄標籤<b class="caret"></b></a>
-							<ul class="dropdown-menu social-menu">
-								<li><a href="/cats_and_tags.html#categories" ><i class="social-icon dribbble"></i> 目錄</a></li>
-								<li><a href="/cats_and_tags.html#tags" ><i class="social-icon forrst"></i> 標籤</a></li>
-                                <li class="divider"></li>
-                                <li><a href="/category/程式設計/" ><i class="social-icon myspace"></i> 程式設計</a></li>
-                                <li><a href="/category/投資理財/" ><i class="social-icon myspace"></i> 投資理財</a></li>
-                                <li><a href="/category/享樂生活/" ><i class="social-icon myspace"></i> 享樂生活</a></li>
-							</ul>
-						</li>
-					</ul><!-- ENDS Explore -->
-					
-					<!-- Feed -->
-					<ul class="nav">
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Feed<b class="caret"></b></a>
-							<ul class="dropdown-menu social-menu">
-								<li><a href="/atom.xml" ><i class="social-icon dribbble"></i> Everything</a></li>
-								<li><a href="/category/投資理財/atom.xml" ><i class="social-icon forrst"></i> 投資理財</a></li>
-                                <li><a href="/tag/javascript/atom.xml" ><i class="social-icon myspace"></i> Javascript</a></li>
-                                <li><a href="/tag/css/atom.xml" ><i class="social-icon myspace"></i> Css</a></li>
-                                <li><a href="/tag/jekyll/atom.xml" ><i class="social-icon myspace"></i> Jekyll</a></li>
-                                <li><a href="/tag/php/atom.xml" ><i class="social-icon myspace"></i> php</a></li>
-							</ul>
-						</li>
-					</ul><!-- ENDS Feed -->
-                
-					<!-- social -->
-					<ul class="nav pull-right ">
-						<li class="divider-vertical"></li>
-						<li class="dropdown">
-							<a href="#"
-						  		class="dropdown-toggle"
-						  		data-toggle="dropdown">
-						  		Social
-						  		<b class="caret"></b>
-							</a>
-							<ul class="dropdown-menu social-menu">
-								<li><a href="http://www.facebook.com/vipjosh08" ><i class="social-icon facebook"></i> Facebook</a></li>
-								<li><a href="http://www.vimeo.com" ><i class="social-icon vimeo"></i> Vimeo</a></li>
-								<li><a href="http://www.youtube.com" ><i class="social-icon youtube"></i> Youtube</a></li>
-								<li><a href="http://www.vimeo.com" ><i class="social-icon tumblr"></i> Tumblr</a></li>
-							</ul>
-						</li>
-					</ul><!-- ENDS Social -->
-				
-				</div><!-- ENDS Collapse -->
-				
-			</div>
-		</div>
-	</div><!-- ENDS navbar -->
-
-	</header>
-	
-	
-	<!-- MAIN -->
-	<div id="main" role="main">
-				<!-- title -->
-		<div class="hero-unit">
-			<h1>Hello, i am Josh!</h1>
-			<p>I love 吃美食、看電影、旅遊 and 閱讀</p>
-		</div><!-- ENDS title -->
-		
-		
-		<!-- info -->
-		<section id="info-section" class="information" >
-			<!--<div  class="page-header"><h1>Information <small>Learn everything about me</small></h1></div>	-->
-				<!-- Experience -->
-                <div class="row">
-				<div class="span9" id="experience">
-					<table class="table experience-table">
-					  <tbody>
-					    
-							<tr>
-	<td>
-		<h3 class="position" ><a href="/writings/2015/04/21/hello/" 
-			>Set again</a>
-		</h3>
-		<span class="date"> April 21, 2015</span><p>
-		
-		<span class="label label-info">內網</span>
-		
-		<span class="label label">test</span>
-		
-		<span class="label label">投資理財</span>
-		
-		<span class="label label-warning"><a href="/writings/2015/04/21/hello/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2015/04/21/hello/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="/writings/2015/04/21/hello/" 
-			><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p><p>hello world 2015!!!!</p>
-<div class="highlight"><pre><code class="sh language-sh" data-lang="sh">echoavch
-</code></pre></div><div class="highlight"><pre><code class="java language-java" data-lang="java"><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>
-    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="n">args</span><span class="o">[])</span> <span class="o">{</span>
-        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello World!&quot;</span><span class="o">);</span>
-     <span class="o">}</span>
-<span class="o">}</span> 
-</code></pre></div>
-<p><code class="prettyprint">vzv</code></p>
-</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://technews.tw/2013/12/17/programming-languages/" 
-			target="_blank">程式語言的歷史資訊圖表：Java 才是現任霸主</a>
-		</h3>
-		<span class="date"> December 18, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">程式文章</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/18/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%9A%84%E6%AD%B7%E5%8F%B2%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%9AJava%E6%89%8D%E6%98%AF%E7%8F%BE%E4%BB%BB%E9%9C%B8%E4%B8%BB/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/18/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%9A%84%E6%AD%B7%E5%8F%B2%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%9AJava%E6%89%8D%E6%98%AF%E7%8F%BE%E4%BB%BB%E9%9C%B8%E4%B8%BB/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://technews.tw/2013/12/17/programming-languages/" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>程式語言的歷史資訊圖表：Java 才是現任霸主</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fatisuya.pixnet.net/blog/post/31202821" 
-			target="_blank">你想領高薪嗎？</a>
-		</h3>
-		<span class="date"> December 18, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">每日閱讀</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/18/%E4%BD%A0%E6%83%B3%E9%A0%98%E9%AB%98%E8%96%AA%E5%97%8E%EF%BC%9F/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/18/%E4%BD%A0%E6%83%B3%E9%A0%98%E9%AB%98%E8%96%AA%E5%97%8E%EF%BC%9F/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fatisuya.pixnet.net/blog/post/31202821" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>你想領高薪嗎？</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://googledocs.blogspot.tw/2010/08/tips-tricks-googlefinance-in-google.html" 
-			target="_blank">Tips & Tricks-GoogleFinance in Google spreadsheets</a>
-		</h3>
-		<span class="date"> December 18, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">其他</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/18/Tips+%26+Tricks_GoogleFinance_in_Google_spreadsheets/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/18/Tips+%26+Tricks_GoogleFinance_in_Google_spreadsheets/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://googledocs.blogspot.tw/2010/08/tips-tricks-googlefinance-in-google.html" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>Tips & Tricks-GoogleFinance in Google spreadsheets</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fairyseyes.blogspot.tw/2013/10/blog-post_4639.html" 
-			target="_blank">打通英文口說的任督二脈─影子法</a>
-		</h3>
-		<span class="date"> December 17, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">英文學習</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%BD%B1%E5%AD%90%E6%B3%95/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%BD%B1%E5%AD%90%E6%B3%95/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fairyseyes.blogspot.tw/2013/10/blog-post_4639.html" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>打通英文口說的任督二脈─影子法</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fairyseyes.blogspot.tw/2013/11/blog-post.html" 
-			target="_blank">打通英文口說任督二脈─回音法</a>
-		</h3>
-		<span class="date"> December 17, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">英文學習</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%9B%9E%E9%9F%B3%E6%B3%95/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%9B%9E%E9%9F%B3%E6%B3%95/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fairyseyes.blogspot.tw/2013/11/blog-post.html" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>打通英文口說任督二脈─回音法</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fairyseyes.blogspot.tw/" 
-			target="_blank">張小絃 交朋友，玩世界！</a>
-		</h3>
-		<span class="date"> December 17, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">知名部落格</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/17/%E5%BC%B5%E5%B0%8F%E7%B5%83-%E4%BA%A4%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%8E%A9%E4%B8%96%E7%95%8C%EF%BC%81/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/17/%E5%BC%B5%E5%B0%8F%E7%B5%83-%E4%BA%A4%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%8E%A9%E4%B8%96%E7%95%8C%EF%BC%81/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fairyseyes.blogspot.tw/" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>在這裡分享張小絃的在二十餘國獨特的旅行片段、和世界各地青年的生活對話、用心記錄一段段真摯又美好的跨文化友誼。 另外還教大家如何和外國人互動，推廣一種走進生活裡的國際觀，希望大家都能跨越種族、宗教、國界、語言與世界互動，和世界做朋友，就像喝水一樣容易！</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fairyseyes.blogspot.tw/2013/10/blog-post_28.html" 
-			target="_blank">對不起，我的英文說的不太好... ...</a>
-		</h3>
-		<span class="date"> December 17, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">每日閱讀</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/17/%E5%B0%8D%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E7%9A%84%E8%8B%B1%E6%96%87%E8%AA%AA%E7%9A%84%E4%B8%8D%E5%A4%AA%E5%A5%BD/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/17/%E5%B0%8D%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E7%9A%84%E8%8B%B1%E6%96%87%E8%AA%AA%E7%9A%84%E4%B8%8D%E5%A4%AA%E5%A5%BD/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fairyseyes.blogspot.tw/2013/10/blog-post_28.html" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>對不起，我的英文說的不太好... ...</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://blog.xuite.net/haitaibear/wretch" 
-			target="_blank">Haitaibear's Basket 海苔熊</a>
-		</h3>
-		<span class="date"> December 17, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">知名部落格</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/17/Haitaibear+%27s+Basket-%E6%B5%B7%E8%8B%94%E7%86%8A/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/17/Haitaibear+%27s+Basket-%E6%B5%B7%E8%8B%94%E7%86%8A/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://blog.xuite.net/haitaibear/wretch" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>Haitaibear's Basket 海苔熊</p>
-	</td>
-</tr>
-						
-							<tr>
-	<td>
-		<h3 class="position" ><a href="http://fairyseyes.blogspot.tw/2013/10/031030-2.html" 
-			target="_blank">打通英文口說的任督二脈─背誦法</a>
-		</h3>
-		<span class="date"> December 15, 2013</span><p>
-		
-		<span class="label label-info">外網</span>
-		
-		
-		<span class="label label">英文學習</span>
-		
-		<span class="label label-warning"><a href="/writings/2013/12/15/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E8%83%8C%E8%AA%A6%E6%B3%95/#disqus_thread" title="Show comments">留言</a></span>
-		<!--<span class="label label-warning"><a href="/writings/2013/12/15/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E8%83%8C%E8%AA%A6%E6%B3%95/#disqus_thread" title="Show comments">Comments</a></span>-->
-		<!--<a href="http://fairyseyes.blogspot.tw/2013/10/031030-2.html" 
-			target="_blank"><small>MORE &rarr;</small></a>-->
-	</td>
-	<td class="post_at_index">
-		<p>打通英文口說的任督二脈─背誦法</p>
-	</td>
-</tr>
-						
-					  </tbody>
-					</table>
-				</div><!-- ENDS Experience -->
-                <div class="span3 sidebar">
-        		<!-- WIDGET -->
-                <div class="widget">
-                	<h3>聯絡方式</h3>    
-                	<ul class="address-block unstyled">
-        				<li class="address"><i class="icon-home"></i> Taiwan, Taipei</li>
-        				<!--<li class="phone"><i class="icon-comment"></i> +123 456 789</li>-->
-        				<li class="email"><i class="icon-envelope"></i><a href="mailto:vipjosh08@hotmail.com"> vipjosh08@hotmail.com</a></li>
-        			</ul>
-                </div><!-- WIDGET -->
-                <!-- WIDGET -->
-                <div class="widget">
-                	<h3>Facebook名片貼</h3>    
-                	<!-- Facebook Badge START --><a href="http://www.facebook.com/vipjosh08" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="&#x6797;&#x4f73;&#x5b9c;">&#x6797;&#x4f73;&#x5b9c;</a><br/><a href="http://www.facebook.com/vipjosh08" target="_TOP" title="&#x6797;&#x4f73;&#x5b9c;"><img src="http://badge.facebook.com/badge/100001368864117.442.1809654554.png" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="&#x5efa;&#x7acb;&#x4f60;&#x7684;&#x540d;&#x7247;&#x8cbc;&#xff01;">建立你的名片貼</a><!-- Facebook Badge END -->
-                </div><!-- WIDGET -->
-                <!-- WIDGET -->
-                <div class="widget">
-                	<h3>QR Code</h3>    
-                	<img src="http://chart.apis.google.com/chart?chs=150x150&chld=L|1&cht=qr&chl=http%3A%2F%2Fwww.vipjoshspace.com" />
-                </div><!-- WIDGET -->
-                <!-- WIDGET -->
-                <div class="widget">
-                	<h3>搜尋此網誌</h3>    
-                	<script>
-  						(function() {
-    						var cx = '005385576805036232052:mh5iklwjkiq';
-    						var gcse = document.createElement('script');
-    						gcse.type = 'text/javascript';
-    						gcse.async = true;
-    						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        					'//www.google.com/cse/cse.js?cx=' + cx;
-    						var s = document.getElementsByTagName('script')[0];
-    						s.parentNode.insertBefore(gcse, s);
-  						})();
-					</script>
-					<gcse:search></gcse:search>
-                </div>
-                <!-- WIDGET -->
-                </div>
-		</section><!-- ENDS info -->
-        
-		
-<ul class="pager">
-<li class="previous">
-
-	<a href="/page2" class="btn btn-default pull-left">&larr; Older</a>
-
-</li>
-<li class="next">
-
-		<a href="#" class="btn btn-default pull-right" disabled="disabled">Newer &rarr;</a>
-
-</li>
-</ul>
-
-
-
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
     
-	</div><!-- ENDS MAIN -->
-	
-	
-	<footer>
-		<hr/>
-		<p>© 2013 <a href="/" >JOSH space*部落格</a>。</p>
-	</footer>
-  	
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
+    <script type="text/javascript">
 
-  <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11617569-6']);
-  _gaq.push(['_trackPageview']);
+      $(function(){
+          var today = new Date();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+          // $('#days').html(today.getMonth());
+          // $('#days').text("test");
+          
+      });
 
+    </script>
 
+  </head>
+  <!-- START BODY -->
+  <body class="nomobile">
 
-	<!--<script type="text/javascript">
-	var disqus_shortname = 'hellovipjosh';
+    <!-- START HEADER -->
+    <section id="header">
+        <div class="container">
+            <header>
+                <!-- HEADLINE -->
+                <h1 data-animated="GoIn"><b>Lin Josh</b> site is coming soon...</h1>
+            </header>
+            <!-- START TIMER -->
+            <div id="timer" data-animated="FadeIn">
+                <p id="message"></p>
+                <div id="days" class="timer_box"></div>
+                <div id="hours" class="timer_box"></div>
+                <div id="minutes" class="timer_box"></div>
+                <div id="seconds" class="timer_box"></div>
+            </div>
+            <!-- END TIMER -->
+            <div class="col-lg-4 col-lg-offset-4 mt centered">
+            	<h4>LET ME KNOW WHEN YOU LAUNCH</h4>
+				<form class="form-inline" role="form">
+				  <!--
+          <div class="form-group">
+				    <label class="sr-only" for="exampleInputEmail2">Email address</label>
+				    <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email">
+				  </div>
+				  <button type="submit" class="btn btn-info">Submit</button>
+          -->
+          <button type="button" onclick="location.href='mailto:turnps@joshlucky.com'" class="btn btn-info">與Josh聯絡</button>
 
-	(function () {
-		var s = document.createElement('script'); s.async = true;
-		s.type = 'text/javascript';
-		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-	}());
-</script>
--->
-</div>
+				</form>            
+			</div>
+            
+        </div>
+        <!-- LAYER OVER THE SLIDER TO MAKE THE WHITE TEXTE READABLE -->
+        <div id="layer"></div>
+        <!-- END LAYER -->
+        <!-- START SLIDER -->
+        <div id="slider" class="rev_slider">
+            <ul>
+              <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/1.jpg">
+                <img src="assets/img/slider/1.jpg">
+              </li>
+              <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/2.jpg">
+                <img src="assets/img/slider/2.jpg">
+              </li>
+              <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/3.jpg">
+                <img src="assets/img/slider/3.jpg">
+              </li>
+              <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/4.jpg">
+                <img src="assets/img/slider/4.jpg">
+              </li>
+            </ul>
+        </div>
+        <!-- END SLIDER -->
+    </section>
+    <!-- END HEADER -->
 
-	<!--外部連結另開視窗-->
-	<script>
-    	$(document.links).filter(function() {
-    		return this.hostname != window.location.hostname;
-		}).attr('target', '_blank');
-  	</script><!--ENDS 外部連結另開視窗-->
-</body>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.min.js"></script>
+	  <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/soon/plugins.js"></script>
+    <script src="assets/js/soon/jquery.themepunch.revolution.min.js"></script>
+    <script src="assets/js/soon/custom.js"></script>
+  </body>
+  <!-- END BODY -->
 </html>

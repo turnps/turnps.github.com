@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+    <title>http://www.vipjoshspace.com</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	
+		<item>
+  <title>Set again</title>
+  <link>http://www.vipjoshspace.com/writings/2015/04/21/hello/</link>
+  <author>Josh</author>
+  <pubDate>2015-04-21T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2015/04/21/hello/</guid>
+  <description><![CDATA[
+     <p>hello world 2015!!!!</p>
+<div class="highlight"><pre><code class="sh language-sh" data-lang="sh">echoavch
+</code></pre></div><div class="highlight"><pre><code class="java language-java" data-lang="java"><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="n">args</span><span class="o">[])</span> <span class="o">{</span>
+        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello World!&quot;</span><span class="o">);</span>
+     <span class="o">}</span>
+<span class="o">}</span> 
+</code></pre></div>
+<p><code class="prettyprint">vzv</code></p>
+
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>程式語言的歷史資訊圖表：Java 才是現任霸主</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/18/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%9A%84%E6%AD%B7%E5%8F%B2%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%9AJava%E6%89%8D%E6%98%AF%E7%8F%BE%E4%BB%BB%E9%9C%B8%E4%B8%BB/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-18T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/18/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%9A%84%E6%AD%B7%E5%8F%B2%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%9AJava%E6%89%8D%E6%98%AF%E7%8F%BE%E4%BB%BB%E9%9C%B8%E4%B8%BB/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>你想領高薪嗎？</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/18/%E4%BD%A0%E6%83%B3%E9%A0%98%E9%AB%98%E8%96%AA%E5%97%8E%EF%BC%9F/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-18T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/18/%E4%BD%A0%E6%83%B3%E9%A0%98%E9%AB%98%E8%96%AA%E5%97%8E%EF%BC%9F/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>Tips & Tricks-GoogleFinance in Google spreadsheets</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/18/Tips+%26+Tricks_GoogleFinance_in_Google_spreadsheets/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-18T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/18/Tips+%26+Tricks_GoogleFinance_in_Google_spreadsheets/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>打通英文口說的任督二脈─影子法</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%BD%B1%E5%AD%90%E6%B3%95/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-17T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%BD%B1%E5%AD%90%E6%B3%95/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>打通英文口說任督二脈─回音法</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%9B%9E%E9%9F%B3%E6%B3%95/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-17T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/17/%E6%89%93%E9%80%9A%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AA%AA%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%88%E2%94%80%E5%9B%9E%E9%9F%B3%E6%B3%95/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>張小絃 交朋友，玩世界！</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/17/%E5%BC%B5%E5%B0%8F%E7%B5%83-%E4%BA%A4%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%8E%A9%E4%B8%96%E7%95%8C%EF%BC%81/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-17T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/17/%E5%BC%B5%E5%B0%8F%E7%B5%83-%E4%BA%A4%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%8E%A9%E4%B8%96%E7%95%8C%EF%BC%81/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>對不起，我的英文說的不太好... ...</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/17/%E5%B0%8D%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E7%9A%84%E8%8B%B1%E6%96%87%E8%AA%AA%E7%9A%84%E4%B8%8D%E5%A4%AA%E5%A5%BD/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-17T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/17/%E5%B0%8D%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E7%9A%84%E8%8B%B1%E6%96%87%E8%AA%AA%E7%9A%84%E4%B8%8D%E5%A4%AA%E5%A5%BD/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+		<item>
+  <title>Haitaibear's Basket 海苔熊</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/17/Haitaibear+%27s+Basket-%E6%B5%B7%E8%8B%94%E7%86%8A/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-17T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/17/Haitaibear+%27s+Basket-%E6%B5%B7%E8%8B%94%E7%86%8A/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</channel>
+</rss>

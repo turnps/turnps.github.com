@@ -1,0 +1,346 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <title></title>
+  
+  <meta name="author" content="Josh" />
+  <meta charset="UTF-8" />
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/style.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap-responsive.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
+  <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
+  
+  <!-- JavaScript at the top for fast page loading -->
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/theme_v0.2/js/jquery-1.7.1.min.js"><\/script>')</script>
+  <!-- scripts concatenated and minified via build script -->
+  <script src="/assets/theme_v0.2/js/plugins.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <!-- end scripts -->
+</head>
+<body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
+
+
+<div class="container">
+
+  <header>
+
+	<!-- navbar -->
+	<div id="topnav" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				
+				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+      
+				<!-- Collapse - Everything you want hidden at 940px or less, place within here -->
+      			<div class="nav-collapse">
+					<!-- Main nav -->
+					<ul  class="nav">
+						<li class="active"><a href="/">JOSH space*部落格</a></li>
+						<li><a href="/about.html">關於</a></li>
+						<li><a href="/contact.html">聯絡我</a></li>
+						<li><a href="/archive.html">文件夾</a></li>
+					</ul><!-- ENDS main nav -->
+				
+					<!-- Explore -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">目錄標籤<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/cats_and_tags.html#categories" ><i class="social-icon dribbble"></i> 目錄</a></li>
+								<li><a href="/cats_and_tags.html#tags" ><i class="social-icon forrst"></i> 標籤</a></li>
+                                <li class="divider"></li>
+                                <li><a href="/category/程式設計/" ><i class="social-icon myspace"></i> 程式設計</a></li>
+                                <li><a href="/category/投資理財/" ><i class="social-icon myspace"></i> 投資理財</a></li>
+                                <li><a href="/category/享樂生活/" ><i class="social-icon myspace"></i> 享樂生活</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Explore -->
+					
+					<!-- Feed -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Feed<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/atom.xml" ><i class="social-icon dribbble"></i> Everything</a></li>
+								<li><a href="/category/投資理財/atom.xml" ><i class="social-icon forrst"></i> 投資理財</a></li>
+                                <li><a href="/tag/javascript/atom.xml" ><i class="social-icon myspace"></i> Javascript</a></li>
+                                <li><a href="/tag/css/atom.xml" ><i class="social-icon myspace"></i> Css</a></li>
+                                <li><a href="/tag/jekyll/atom.xml" ><i class="social-icon myspace"></i> Jekyll</a></li>
+                                <li><a href="/tag/php/atom.xml" ><i class="social-icon myspace"></i> php</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Feed -->
+                
+					<!-- social -->
+					<ul class="nav pull-right ">
+						<li class="divider-vertical"></li>
+						<li class="dropdown">
+							<a href="#"
+						  		class="dropdown-toggle"
+						  		data-toggle="dropdown">
+						  		Social
+						  		<b class="caret"></b>
+							</a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="http://www.facebook.com/vipjosh08" ><i class="social-icon facebook"></i> Facebook</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon vimeo"></i> Vimeo</a></li>
+								<li><a href="http://www.youtube.com" ><i class="social-icon youtube"></i> Youtube</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon tumblr"></i> Tumblr</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Social -->
+				
+				</div><!-- ENDS Collapse -->
+				
+			</div>
+		</div>
+	</div><!-- ENDS navbar -->
+
+	</header>
+	
+	
+	<!-- MAIN -->
+	<div id="main" role="main">
+		<div id="main" role="main">
+	<section id="info-section" class="information" >
+
+
+<div  class="page-header">
+	<h1>Tag: <small>'知名部落格'</small></h1>
+</div>
+
+
+<!-- Experience -->
+<div id="experience">
+	<table class="table experience-table">			  
+		<tbody>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://wjchang.pixnet.net/blog" 
+			target="_blank">萬惡的人力資源主管部落格</a>
+		</h3>
+		<span class="date"> August 23, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/08/23/%E8%90%AC%E6%83%A1%E7%9A%84%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E4%B8%BB%E7%AE%A1%E9%83%A8%E8%90%BD%E6%A0%BC/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/08/23/%E8%90%AC%E6%83%A1%E7%9A%84%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E4%B8%BB%E7%AE%A1%E9%83%A8%E8%90%BD%E6%A0%BC/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://wjchang.pixnet.net/blog" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>一個跨國公司人力資源主管的心情與心聲...</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://mhperng.blogspot.tw/" 
+			target="_blank">清大彭明輝的部落格</a>
+		</h3>
+		<span class="date"> July 30, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/07/30/%E6%B8%85%E5%A4%A7%E5%BD%AD%E6%98%8E%E8%BC%9D%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/07/30/%E6%B8%85%E5%A4%A7%E5%BD%AD%E6%98%8E%E8%BC%9D%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://mhperng.blogspot.tw/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>吃台灣米，讀古今中外書，思索台灣的未來； 善待自己、善待他人、善待土地</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://blog.yam.com/user/australia_elle.html" 
+			target="_blank">澳洲 艾兒</a>
+		</h3>
+		<span class="date"> July 23, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/07/23/%E6%BE%B3%E6%B4%B2-%E8%89%BE%E5%85%92/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/07/23/%E6%BE%B3%E6%B4%B2-%E8%89%BE%E5%85%92/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://blog.yam.com/user/australia_elle.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>一個熱愛澳洲女孩的樂活人生， 用澳洲人特有的樂觀與天真的眼睛看世界</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.mukispace.com/" 
+			target="_blank">MUKI SPACE</a>
+		</h3>
+		<span class="date"> July 02, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/07/02/MUKI-SPACE/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/07/02/MUKI-SPACE/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.mukispace.com/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>學習與分享 HTML / CSS / jQuery / WordPress 的個人部落格</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://hungsh-ntucsie.blogspot.tw/" 
+			target="_blank">台大資工 洪士灝 & PAS Lab</a>
+		</h3>
+		<span class="date"> May 22, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/05/22/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%B4%AA%E5%A3%AB%E7%81%9D-PAS_Lab/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/05/22/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%B4%AA%E5%A3%AB%E7%81%9D-PAS_Lab/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://hungsh-ntucsie.blogspot.tw/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>對社會、人文、科技、產業、教育的觀察感言，對電腦效能、應用與安全之研究心得</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.cwyuni.tw/blog/post/17894984" 
+			target="_blank">酪梨壽司的日記</a>
+		</h3>
+		<span class="date"> May 20, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">知名部落格</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/05/20/%E9%85%AA%E6%A2%A8%E5%A3%BD%E5%8F%B8%E7%9A%84%E6%97%A5%E8%A8%98/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/05/20/%E9%85%AA%E6%A2%A8%E5%A3%BD%E5%8F%B8%E7%9A%84%E6%97%A5%E8%A8%98/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.cwyuni.tw/blog/post/17894984" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>酪梨壽司的日記</p>
+	</td>
+</tr>
+			
+		</tbody>
+	</table>
+</div><!-- ENDS Experience -->
+
+	
+
+
+
+<ul class="pager">
+<li class="previous">
+
+	<a href="#" class="btn btn-default pull-left" disabled="disabled">&larr; Older</a>
+
+</li>
+<li class="next">
+
+	
+		<a href="/tag/知名部落格/" class="btn btn-default pull-right">Newer  &rarr;</a>
+	
+
+</li>
+</ul>
+
+
+
+</section><!-- ENDS info -->
+</div>
+    
+	</div><!-- ENDS MAIN -->
+	
+	
+	<footer>
+		<hr/>
+		<p>© 2013 <a href="/" >JOSH space*部落格</a>。</p>
+	</footer>
+  	
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11617569-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	<!--<script type="text/javascript">
+	var disqus_shortname = 'hellovipjosh';
+
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script>
+-->
+</div>
+
+	<!--外部連結另開視窗-->
+	<script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  	</script><!--ENDS 外部連結另開視窗-->
+</body>
+</html>

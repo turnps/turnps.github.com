@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: 書本</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>測試</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/01/test/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/01/test/</guid>
+  <description><![CDATA[
+     <p>As I discussed earlier this year, [Media Temple has refreshed their VPS offerings], improving their underlying virtualization software, getting a more recent kernel, and otherwise polishing up the various bits. After slogging through the last couple months of my second child being born, I finally got my head above water and pulled the trigger on migrating to a new installation. I was on an old (ve), so I chose to go to a <a href="http://mediatemple.net/webhosting/vps/developer/">DV Developer</a>, Level 2.</p>
+
+<p>Since both the (ve) and the DV Developer are a raw, bare-bones Linux installation, there isn&#39;t a ton to report in terms of pretty oohs and ahhs, and the provisioning and migration occurred entirely without incident (as it should be), so I can&#39;t prattle on about that arduous process, since it was pretty much a single button press followed by &quot;ssh #######&quot; 5 minutes later.</p>
+
+<p>Nevertheless, I can show a few interesting tidbits for those that are interested.</p>
+
+<h2>As Advertised Boxi-ness</h2>
+
+<p>The Level 2 is &quot;2GB Memory, 40GB Storage, and 650GB Bandwidth&quot;. One thing I&#39;ve always appreciated about Media Temple is the number of cores they allow you to run on for your slice of the computing pie:</p>
+
+<div class="imgblock">
+<div class="noalignouter">
+    <div class="noaligninner">
+
+<div class="img thumbnail alignnone">
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_stats.png" />
+    
+</div>
+
+<p></div>
+</div>
+<div class="clearfix"></div>
+</div></p>
+
+<p>Other VPS offerings in the world seem to generally offer more like 2 or 4 cores, as opposed to the 16 made available on Media Temple. Even if the aggregate compute power available through MT is no better than other hosts, I prefer it being split across cores like this when hosting concurrent web apps.</p>
+
+<p>You can also see that I do in fact have 2GB of memory at my fingertips; no trickery there. I should also note that the disks are SAS, and the ethernet is gigabit - so you have very few bottlenecks baked in (as you might with something like EC2).</p>
+
+<h2>Newer Kernel; Newer Virtualization Platform</h2>
+
+<p>I lamented rather furiously about the state of the kernel on my (ve) - it was a rather ancient <code class="prettyprint">2.6.18</code> build for OpenVZ from Parallels. Their new platform is a more recent, but not what I&#39;d consider super modern <code class="prettyprint">2.6.32</code>. It&#39;s certainly new-enough for most needs. The new virtualization platform is also supposed to be more readily upgradable on their part, so hopefully it won&#39;t fall behind quite so badly.</p>
+
+<p>Concretely speaking, I&#39;m currently able to run Ubuntu Server 13.04 without issue, which is a significant step forward from the 10.04 dead-end I previously encountered.</p>
+
+<p>Media Temple also promises significant performance increases for the same resource utilization:</p>
+
+<blockquote>
+<p>DV Developer, formerly known as (ve), streamlines the DV platform for speed, performance and efficiency. Packed with the same upgrades as DV Managed – 25% increase in LAMP performance, 10X increases in backups and maintenance, and industry leading software packages including Ubuntu, CentOS, Fedora, and Debian – DV Developer also provides rebootless updates - upgrade kernel and reboot without downtime, improved stats using vSwap, and unlimited scalability by removing the previous 20 service limit per account. DV Developer customers will also benefit from the new (mt) Media Temple 20/20 Uptime Guarantee. Pricing for DV Developer, including all upgrades, remains the same starting at $30 per month with no commitments required.</p>
+</blockquote>
+
+<h2>Consoles, Admins, APIs, Etc.</h2>
+
+<p>None of this is particularly new (in fact, it&#39;s effectively identical to the (ve)), but there are a number of good administrative features available:</p>
+
+<h3>Admin and Stats Panel</h3>
+
+<p>MediaTemple has an a bevy of administration GUIs, and also has a stats panel that shows sliding history of box performance:</p>
+
+<div class="imgblock">
+<div class="noalignouter">
+    <div class="noaligninner">
+
+<div class="img thumbnail alignnone">
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_admin_gui.png" />
+    
+</div>
+
+<p></div>
+</div>
+<div class="clearfix"></div>
+</div></p>
+
+<h3>Power Panel</h3>
+
+<p>You also get a Plesk Parallels Power Panel (Pay Phat Pive Pimes Past), which allows you to perform a number of tasks from a GUI console instead of SSH-ing in:</p>
+
+<div class="imgblock">
+<div class="noalignouter">
+    <div class="noaligninner">
+
+<div class="img thumbnail alignnone">
+    <img src="http://www.vipjoshspace.com/assets/images/articles/misc/dv_power_panel.png" />
+    
+</div>
+
+<p></div>
+</div>
+<div class="clearfix"></div>
+</div></p>
+
+<h3>APIs</h3>
+
+<p>If you have need to automate your backends, you can with the <a href="http://mediatemple.net/api/">Media Temple ProDev API</a>. This allows you to do many of the things you&#39;d expect:</p>
+
+<ul>
+<li>Add services (instances)</li>
+<li>Get current service information</li>
+<li>Reboot services</li>
+<li>Get service statistics, warnings, thresholds</li>
+</ul>
+
+<h2>Summary</h2>
+
+<p>Overall I&#39;m quite happy with the new DV Developer. It&#39;s a much needed upgrade, and it has allowed me to modernize my stack across the board without having to work around any particular issues. While performance seems quite good, I had never really felt any reason to complain there, so I can&#39;t speak about the marketed improvements; yet it wouldn&#39;t surprise me given the advancements made (even just in kernels alone).</p>
+
+  ]]></description>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,471 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <title>JOSH space*部落格</title>
+  <meta name="description" content="Hello, i am Josh! I love 吃美食、看電影、旅遊 and 閱讀" />
+  <meta name="author" content="Josh" />
+  <meta charset="UTF-8" />
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/style.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap-responsive.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
+  <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
+  
+  <!-- JavaScript at the top for fast page loading -->
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/theme_v0.2/js/jquery-1.7.1.min.js"><\/script>')</script>
+  <!-- scripts concatenated and minified via build script -->
+  <script src="/assets/theme_v0.2/js/plugins.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <!-- end scripts -->
+</head>
+<body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
+
+
+<div class="container">
+
+  <header>
+
+	<!-- navbar -->
+	<div id="topnav" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				
+				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+      
+				<!-- Collapse - Everything you want hidden at 940px or less, place within here -->
+      			<div class="nav-collapse">
+					<!-- Main nav -->
+					<ul  class="nav">
+						<li class="active"><a href="/">JOSH space*部落格</a></li>
+						<li><a href="/about.html">關於</a></li>
+						<li><a href="/contact.html">聯絡我</a></li>
+						<li><a href="/archive.html">文件夾</a></li>
+					</ul><!-- ENDS main nav -->
+				
+					<!-- Explore -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">目錄標籤<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/cats_and_tags.html#categories" ><i class="social-icon dribbble"></i> 目錄</a></li>
+								<li><a href="/cats_and_tags.html#tags" ><i class="social-icon forrst"></i> 標籤</a></li>
+                                <li class="divider"></li>
+                                <li><a href="/category/程式設計/" ><i class="social-icon myspace"></i> 程式設計</a></li>
+                                <li><a href="/category/投資理財/" ><i class="social-icon myspace"></i> 投資理財</a></li>
+                                <li><a href="/category/享樂生活/" ><i class="social-icon myspace"></i> 享樂生活</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Explore -->
+					
+					<!-- Feed -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Feed<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/atom.xml" ><i class="social-icon dribbble"></i> Everything</a></li>
+								<li><a href="/category/投資理財/atom.xml" ><i class="social-icon forrst"></i> 投資理財</a></li>
+                                <li><a href="/tag/javascript/atom.xml" ><i class="social-icon myspace"></i> Javascript</a></li>
+                                <li><a href="/tag/css/atom.xml" ><i class="social-icon myspace"></i> Css</a></li>
+                                <li><a href="/tag/jekyll/atom.xml" ><i class="social-icon myspace"></i> Jekyll</a></li>
+                                <li><a href="/tag/php/atom.xml" ><i class="social-icon myspace"></i> php</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Feed -->
+                
+					<!-- social -->
+					<ul class="nav pull-right ">
+						<li class="divider-vertical"></li>
+						<li class="dropdown">
+							<a href="#"
+						  		class="dropdown-toggle"
+						  		data-toggle="dropdown">
+						  		Social
+						  		<b class="caret"></b>
+							</a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="http://www.facebook.com/vipjosh08" ><i class="social-icon facebook"></i> Facebook</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon vimeo"></i> Vimeo</a></li>
+								<li><a href="http://www.youtube.com" ><i class="social-icon youtube"></i> Youtube</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon tumblr"></i> Tumblr</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Social -->
+				
+				</div><!-- ENDS Collapse -->
+				
+			</div>
+		</div>
+	</div><!-- ENDS navbar -->
+
+	</header>
+	
+	
+	<!-- MAIN -->
+	<div id="main" role="main">
+				<!-- title -->
+		<div class="hero-unit">
+			<h1>Hello, i am Josh!</h1>
+			<p>I love 吃美食、看電影、旅遊 and 閱讀</p>
+		</div><!-- ENDS title -->
+		
+		
+		<!-- info -->
+		<section id="info-section" class="information" >
+			<!--<div  class="page-header"><h1>Information <small>Learn everything about me</small></h1></div>	-->
+				<!-- Experience -->
+                <div class="row">
+				<div class="span9" id="experience">
+					<table class="table experience-table">
+					  <tbody>
+					    
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://j796160836.pixnet.net/blog/post/30577968" 
+			target="_blank">Android使用HTTP的POST方式和網頁表單溝通 (加上資料庫、執行緒)</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/%5BAndroid%5D%E4%BD%BF%E7%94%A8HTTP%E7%9A%84POST%E6%96%B9%E5%BC%8F%E5%92%8C%E7%B6%B2%E9%A0%81%E8%A1%A8%E5%96%AE%E6%BA%9D%E9%80%9A-%E5%8A%A0%E4%B8%8A%E8%B3%87%E6%96%99%E5%BA%AB%E3%80%81%E5%9F%B7%E8%A1%8C%E7%B7%92/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/%5BAndroid%5D%E4%BD%BF%E7%94%A8HTTP%E7%9A%84POST%E6%96%B9%E5%BC%8F%E5%92%8C%E7%B6%B2%E9%A0%81%E8%A1%A8%E5%96%AE%E6%BA%9D%E9%80%9A-%E5%8A%A0%E4%B8%8A%E8%B3%87%E6%96%99%E5%BA%AB%E3%80%81%E5%9F%B7%E8%A1%8C%E7%B7%92/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://j796160836.pixnet.net/blog/post/30577968" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android使用HTTP的POST方式和網頁表單溝通 (加上資料庫、執行緒)</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.moke.tw/wordpress/computer/advanced/279" 
+			target="_blank">Android開發筆記－GPS與網路定位</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E9%96%8B%E7%99%BC%E7%AD%86%E8%A8%98%EF%BC%8DGPS%E8%88%87%E7%B6%B2%E8%B7%AF%E5%AE%9A%E4%BD%8D/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E9%96%8B%E7%99%BC%E7%AD%86%E8%A8%98%EF%BC%8DGPS%E8%88%87%E7%B6%B2%E8%B7%AF%E5%AE%9A%E4%BD%8D/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.moke.tw/wordpress/computer/advanced/279" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android開發筆記－GPS與網路定位</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://nkeegamedev.blogspot.tw/2012/06/android-timer.html" 
+			target="_blank">Android程式設計 - 使用Timer物件</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E4%BD%BF%E7%94%A8Timer%E7%89%A9%E4%BB%B6/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E4%BD%BF%E7%94%A8Timer%E7%89%A9%E4%BB%B6/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://nkeegamedev.blogspot.tw/2012/06/android-timer.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android程式設計 - 使用Timer物件</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://jjnnykimo.pixnet.net/blog/post/29610930-android-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F" 
+			target="_blank">Android 生命週期</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://jjnnykimo.pixnet.net/blog/post/29610930-android-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android 生命週期</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://fecbob.pixnet.net/blog/post/38314085-android%E7%8D%B2%E5%8F%96%E7%B6%93%E7%B7%AF%E5%BA%A6%E3%80%81%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2%E3%80%81%E6%96%B9%E4%BD%8D%E8%A7%92" 
+			target="_blank">Android獲取經緯度、計算距離、方位角</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%8D%B2%E5%8F%96%E7%B6%93%E7%B7%AF%E5%BA%A6%E3%80%81%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2%E3%80%81%E6%96%B9%E4%BD%8D%E8%A7%92/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E7%8D%B2%E5%8F%96%E7%B6%93%E7%B7%AF%E5%BA%A6%E3%80%81%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2%E3%80%81%E6%96%B9%E4%BD%8D%E8%A7%92/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://fecbob.pixnet.net/blog/post/38314085-android%E7%8D%B2%E5%8F%96%E7%B6%93%E7%B7%AF%E5%BA%A6%E3%80%81%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2%E3%80%81%E6%96%B9%E4%BD%8D%E8%A7%92" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android獲取經緯度、計算距離、方位角</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://blog.csdn.net/zuolongsnail/article/details/8362811" 
+			target="_blank">Android中组装xml文件内容</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E4%B8%AD%E7%BB%84%E8%A3%85xml%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E4%B8%AD%E7%BB%84%E8%A3%85xml%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://blog.csdn.net/zuolongsnail/article/details/8362811" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android中组装xml文件内容</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://mobile.51cto.com/aprogram-387170.htm" 
+			target="_blank">Android中GPS定位(获取经纬度)</a>
+		</h3>
+		<span class="date"> December 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">android</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/09/Android%E4%B8%ADGPS%E5%AE%9A%E4%BD%8D%28%E8%8E%B7%E5%8F%96%E7%BB%8F%E7%BA%AC%E5%BA%A6%29/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/09/Android%E4%B8%ADGPS%E5%AE%9A%E4%BD%8D%28%E8%8E%B7%E5%8F%96%E7%BB%8F%E7%BA%AC%E5%BA%A6%29/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://mobile.51cto.com/aprogram-387170.htm" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Android中GPS定位(获取经纬度)</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.inside.com.tw/2013/12/05/b2b-startup-in-silicon-valley" 
+			target="_blank">人脈為王：矽谷發展 B2B Startup 的方式</a>
+		</h3>
+		<span class="date"> December 05, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">每日閱讀</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/05/%E4%BA%BA%E8%84%88%E7%82%BA%E7%8E%8B%EF%BC%9A%E7%9F%BD%E8%B0%B7%E7%99%BC%E5%B1%95B2B-Startup+%E7%9A%84%E6%96%B9%E5%BC%8F/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/05/%E4%BA%BA%E8%84%88%E7%82%BA%E7%8E%8B%EF%BC%9A%E7%9F%BD%E8%B0%B7%E7%99%BC%E5%B1%95B2B-Startup+%E7%9A%84%E6%96%B9%E5%BC%8F/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.inside.com.tw/2013/12/05/b2b-startup-in-silicon-valley" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>人脈為王：矽谷發展 B2B Startup 的方式</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.businessweekly.com.tw/KBlogArticle.aspx?ID=2513&pnumber=1" 
+			target="_blank">腎臟科醫師：保健食品吃錯了，更要命！</a>
+		</h3>
+		<span class="date"> December 03, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">健康保健</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/03/%E8%85%8E%E8%87%9F%E7%A7%91%E9%86%AB%E5%B8%AB%EF%BC%9A%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E5%90%83%E9%8C%AF%E4%BA%86%EF%BC%8C%E6%9B%B4%E8%A6%81%E5%91%BD%EF%BC%81/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/03/%E8%85%8E%E8%87%9F%E7%A7%91%E9%86%AB%E5%B8%AB%EF%BC%9A%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E5%90%83%E9%8C%AF%E4%BA%86%EF%BC%8C%E6%9B%B4%E8%A6%81%E5%91%BD%EF%BC%81/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.businessweekly.com.tw/KBlogArticle.aspx?ID=2513&pnumber=1" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>腎臟科醫師：保健食品吃錯了，更要命！</p>
+	</td>
+</tr>
+						
+							<tr>
+	<td>
+		<h3 class="position" ><a href="https://support.google.com/drive/table/25273?hl=zh-Hant" 
+			target="_blank">Google 試算表函式清單</a>
+		</h3>
+		<span class="date"> December 03, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">其他</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/12/03/Google%E8%A9%A6%E7%AE%97%E8%A1%A8%E5%87%BD%E5%BC%8F%E6%B8%85%E5%96%AE/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/12/03/Google%E8%A9%A6%E7%AE%97%E8%A1%A8%E5%87%BD%E5%BC%8F%E6%B8%85%E5%96%AE/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://support.google.com/drive/table/25273?hl=zh-Hant" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Google 試算表函式清單</p>
+	</td>
+</tr>
+						
+					  </tbody>
+					</table>
+				</div><!-- ENDS Experience -->
+                <div class="span3 sidebar">
+        		<!-- WIDGET -->
+                <div class="widget">
+                	<h3>聯絡方式</h3>    
+                	<ul class="address-block unstyled">
+        				<li class="address"><i class="icon-home"></i> Taiwan, Taipei</li>
+        				<!--<li class="phone"><i class="icon-comment"></i> +123 456 789</li>-->
+        				<li class="email"><i class="icon-envelope"></i><a href="mailto:vipjosh08@hotmail.com"> vipjosh08@hotmail.com</a></li>
+        			</ul>
+                </div><!-- WIDGET -->
+                <!-- WIDGET -->
+                <div class="widget">
+                	<h3>Facebook名片貼</h3>    
+                	<!-- Facebook Badge START --><a href="http://www.facebook.com/vipjosh08" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="&#x6797;&#x4f73;&#x5b9c;">&#x6797;&#x4f73;&#x5b9c;</a><br/><a href="http://www.facebook.com/vipjosh08" target="_TOP" title="&#x6797;&#x4f73;&#x5b9c;"><img src="http://badge.facebook.com/badge/100001368864117.442.1809654554.png" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="&#x5efa;&#x7acb;&#x4f60;&#x7684;&#x540d;&#x7247;&#x8cbc;&#xff01;">建立你的名片貼</a><!-- Facebook Badge END -->
+                </div><!-- WIDGET -->
+                <!-- WIDGET -->
+                <div class="widget">
+                	<h3>QR Code</h3>    
+                	<img src="http://chart.apis.google.com/chart?chs=150x150&chld=L|1&cht=qr&chl=http%3A%2F%2Fwww.vipjoshspace.com" />
+                </div><!-- WIDGET -->
+                <!-- WIDGET -->
+                <div class="widget">
+                	<h3>搜尋此網誌</h3>    
+                	<script>
+  						(function() {
+    						var cx = '005385576805036232052:mh5iklwjkiq';
+    						var gcse = document.createElement('script');
+    						gcse.type = 'text/javascript';
+    						gcse.async = true;
+    						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        					'//www.google.com/cse/cse.js?cx=' + cx;
+    						var s = document.getElementsByTagName('script')[0];
+    						s.parentNode.insertBefore(gcse, s);
+  						})();
+					</script>
+					<gcse:search></gcse:search>
+                </div>
+                <!-- WIDGET -->
+                </div>
+		</section><!-- ENDS info -->
+        
+		
+<ul class="pager">
+<li class="previous">
+
+	<a href="/page4" class="btn btn-default pull-left">&larr; Older</a>
+
+</li>
+<li class="next">
+
+	
+		<a href="/page2" class="btn btn-default pull-right">Newer &rarr;</a>
+	
+
+</li>
+</ul>
+
+
+
+    
+	</div><!-- ENDS MAIN -->
+	
+	
+	<footer>
+		<hr/>
+		<p>© 2013 <a href="/" >JOSH space*部落格</a>。</p>
+	</footer>
+  	
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11617569-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	<!--<script type="text/javascript">
+	var disqus_shortname = 'hellovipjosh';
+
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script>
+-->
+</div>
+
+	<!--外部連結另開視窗-->
+	<script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  	</script><!--ENDS 外部連結另開視窗-->
+</body>
+</html>

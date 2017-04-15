@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: objective-c</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>學習 iOS App 開發的一些心得</title>
+  <link>http://www.vipjoshspace.com/writings/2013/09/30/%E5%AD%B8%E7%BF%92iOS-App%E9%96%8B%E7%99%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%83%E5%BE%97/</link>
+  <author>Josh</author>
+  <pubDate>2013-09-30T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/09/30/%E5%AD%B8%E7%BF%92iOS-App%E9%96%8B%E7%99%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%83%E5%BE%97/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>objective-c初學網站教學文章</title>
+  <link>http://www.vipjoshspace.com/writings/2012/08/31/objective-c%E5%88%9D%E5%AD%B8%E7%B6%B2%E7%AB%99%E6%95%99%E5%AD%B8%E6%96%87%E7%AB%A0/</link>
+  <author>Josh</author>
+  <pubDate>2012-08-31T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2012/08/31/objective-c%E5%88%9D%E5%AD%B8%E7%B6%B2%E7%AB%99%E6%95%99%E5%AD%B8%E6%96%87%E7%AB%A0/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

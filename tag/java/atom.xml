@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: java</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>Java static,final 基本概念</title>
+  <link>http://www.vipjoshspace.com/writings/2013/10/21/Java-static%2Cfinal+%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-21T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/21/Java-static%2Cfinal+%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>Eclipse~export成JAR檔</title>
+  <link>http://www.vipjoshspace.com/writings/2013/08/28/Eclipse%7Eexport%E6%88%90JAR%E6%AA%94/</link>
+  <author>Josh</author>
+  <pubDate>2013-08-28T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/08/28/Eclipse%7Eexport%E6%88%90JAR%E6%AA%94/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

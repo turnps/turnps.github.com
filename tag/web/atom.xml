@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+   	<title>http://www.vipjoshspace.com - Tag: web</title>
+   
+   <link>http://www.vipjoshspace.com</link>
+   <description>I'm a programer in the web industry, and have been (for better or worse) coding on the PHP platform for the last decade. I also do all my own stunts.</description>
+   <language>zh-TW</language>
+   <managingEditor>Josh</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+  <title>自訂網址列圖示﹝FavIcon﹞</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/02/%E8%87%AA%E8%A8%82%E7%B6%B2%E5%9D%80%E5%88%97%E5%9C%96%E7%A4%BA%EF%B9%9DFavIcon%EF%B9%9E/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-02T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/02/%E8%87%AA%E8%A8%82%E7%B6%B2%E5%9D%80%E5%88%97%E5%9C%96%E7%A4%BA%EF%B9%9DFavIcon%EF%B9%9E/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>架站-為你的網站加上網址列小圖示ICON，打造專屬品牌</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/02/%5B%E6%9E%B6%E7%AB%99%5D%E7%82%BA%E4%BD%A0%E7%9A%84%E7%B6%B2%E7%AB%99%E5%8A%A0%E4%B8%8A%E7%B6%B2%E5%9D%80%E5%88%97%E5%B0%8F%E5%9C%96%E7%A4%BAICON%EF%BC%8C%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E5%93%81%E7%89%8C/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-02T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/02/%5B%E6%9E%B6%E7%AB%99%5D%E7%82%BA%E4%BD%A0%E7%9A%84%E7%B6%B2%E7%AB%99%E5%8A%A0%E4%B8%8A%E7%B6%B2%E5%9D%80%E5%88%97%E5%B0%8F%E5%9C%96%E7%A4%BAICON%EF%BC%8C%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E5%93%81%E7%89%8C/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>MockFlow 網站框架規劃工具，畫出 Wireframe</title>
+  <link>http://www.vipjoshspace.com/writings/2013/12/01/MockFlow%E7%B6%B2%E7%AB%99%E6%A1%86%E6%9E%B6%E8%A6%8F%E5%8A%83%E5%B7%A5%E5%85%B7%EF%BC%8C%E7%95%AB%E5%87%BA+Wireframe/</link>
+  <author>Josh</author>
+  <pubDate>2013-12-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/12/01/MockFlow%E7%B6%B2%E7%AB%99%E6%A1%86%E6%9E%B6%E8%A6%8F%E5%8A%83%E5%B7%A5%E5%85%B7%EF%BC%8C%E7%95%AB%E5%87%BA+Wireframe/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>走錯路也要美美的-404網頁美化大展</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/01/%E8%B5%B0%E9%8C%AF%E8%B7%AF%E4%B9%9F%E8%A6%81%E7%BE%8E%E7%BE%8E%E7%9A%84%EF%BC%9A404%E7%B6%B2%E9%A0%81%E7%BE%8E%E5%8C%96%E5%A4%A7%E5%B1%95/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/01/%E8%B5%B0%E9%8C%AF%E8%B7%AF%E4%B9%9F%E8%A6%81%E7%BE%8E%E7%BE%8E%E7%9A%84%EF%BC%9A404%E7%B6%B2%E9%A0%81%E7%BE%8E%E5%8C%96%E5%A4%A7%E5%B1%95/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用 .htaccess 自訂404找不到網頁的頁面</title>
+  <link>http://www.vipjoshspace.com/writings/2013/11/01/%E4%BD%BF%E7%94%A8.htaccess%E8%87%AA%E8%A8%82404%E6%89%BE%E4%B8%8D%E5%88%B0%E7%B6%B2%E9%A0%81%E7%9A%84%E9%A0%81%E9%9D%A2/</link>
+  <author>Josh</author>
+  <pubDate>2013-11-01T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/11/01/%E4%BD%BF%E7%94%A8.htaccess%E8%87%AA%E8%A8%82404%E6%89%BE%E4%B8%8D%E5%88%B0%E7%B6%B2%E9%A0%81%E7%9A%84%E9%A0%81%E9%9D%A2/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>快速幫你的Google提交Sitemap</title>
+  <link>http://www.vipjoshspace.com/writings/2013/10/26/%E5%BF%AB%E9%80%9F%E5%B9%AB%E4%BD%A0%E7%9A%84Google%E6%8F%90%E4%BA%A4Sitemap/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-26T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/26/%E5%BF%AB%E9%80%9F%E5%B9%AB%E4%BD%A0%E7%9A%84Google%E6%8F%90%E4%BA%A4Sitemap/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>取代 Blogger 搜尋小工具_新版Google 自訂搜尋</title>
+  <link>http://www.vipjoshspace.com/writings/2013/10/26/%E5%8F%96%E4%BB%A3Blogger%E6%90%9C%E5%B0%8B%E5%B0%8F%E5%B7%A5%E5%85%B7_%E6%96%B0%E7%89%88Google%E8%87%AA%E8%A8%82%E6%90%9C%E5%B0%8B/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-26T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/26/%E5%8F%96%E4%BB%A3Blogger%E6%90%9C%E5%B0%8B%E5%B0%8F%E5%B7%A5%E5%85%B7_%E6%96%B0%E7%89%88Google%E8%87%AA%E8%A8%82%E6%90%9C%E5%B0%8B/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>使用Web技術開發Mobile App</title>
+  <link>http://www.vipjoshspace.com/writings/2013/10/22/%E4%BD%BF%E7%94%A8Web%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BCMobile-App/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-22T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/22/%E4%BD%BF%E7%94%A8Web%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BCMobile-App/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+	<item>
+  <title>免費樣板</title>
+  <link>http://www.vipjoshspace.com/writings/2013/10/21/%E5%85%8D%E8%B2%BB%E6%A8%A3%E6%9D%BF/</link>
+  <author>Josh</author>
+  <pubDate>2013-10-21T00:00:00+08:00</pubDate>
+  <guid>http://www.vipjoshspace.com/writings/2013/10/21/%E5%85%8D%E8%B2%BB%E6%A8%A3%E6%9D%BF/</guid>
+  <description><![CDATA[
+     
+  ]]></description>
+</item>
+
+</channel>
+</rss>

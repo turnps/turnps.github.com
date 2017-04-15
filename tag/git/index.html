@@ -1,0 +1,432 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <title></title>
+  
+  <meta name="author" content="Josh" />
+  <meta charset="UTF-8" />
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/style.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/bootstrap-responsive.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/js/fancybox/jquery.fancybox-1.3.4.css">
+  <link rel="stylesheet" href="/assets/theme_v0.2/css/responsive.css">
+  <link rel="stylesheet" href="/assets/stylesheets/theme/pygments.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
+  
+  <!-- JavaScript at the top for fast page loading -->
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/theme_v0.2/js/jquery-1.7.1.min.js"><\/script>')</script>
+  <!-- scripts concatenated and minified via build script -->
+  <script src="/assets/theme_v0.2/js/plugins.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-dropdown.js"></script>
+  <script src="/assets/theme_v0.2/js/bootstrap-collapse.js"></script>
+  <script type="text/javascript" src="/assets/theme_v0.2/js/truncatehtml.js"></script>
+  <!-- end scripts -->
+</head>
+<body id="top-section" data-spy="scroll" data-target="#topnav"  data-offset="70" >
+
+
+<div class="container">
+
+  <header>
+
+	<!-- navbar -->
+	<div id="topnav" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				
+				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+      
+				<!-- Collapse - Everything you want hidden at 940px or less, place within here -->
+      			<div class="nav-collapse">
+					<!-- Main nav -->
+					<ul  class="nav">
+						<li class="active"><a href="/">JOSH space*部落格</a></li>
+						<li><a href="/about.html">關於</a></li>
+						<li><a href="/contact.html">聯絡我</a></li>
+						<li><a href="/archive.html">文件夾</a></li>
+					</ul><!-- ENDS main nav -->
+				
+					<!-- Explore -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">目錄標籤<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/cats_and_tags.html#categories" ><i class="social-icon dribbble"></i> 目錄</a></li>
+								<li><a href="/cats_and_tags.html#tags" ><i class="social-icon forrst"></i> 標籤</a></li>
+                                <li class="divider"></li>
+                                <li><a href="/category/程式設計/" ><i class="social-icon myspace"></i> 程式設計</a></li>
+                                <li><a href="/category/投資理財/" ><i class="social-icon myspace"></i> 投資理財</a></li>
+                                <li><a href="/category/享樂生活/" ><i class="social-icon myspace"></i> 享樂生活</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Explore -->
+					
+					<!-- Feed -->
+					<ul class="nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Feed<b class="caret"></b></a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="/atom.xml" ><i class="social-icon dribbble"></i> Everything</a></li>
+								<li><a href="/category/投資理財/atom.xml" ><i class="social-icon forrst"></i> 投資理財</a></li>
+                                <li><a href="/tag/javascript/atom.xml" ><i class="social-icon myspace"></i> Javascript</a></li>
+                                <li><a href="/tag/css/atom.xml" ><i class="social-icon myspace"></i> Css</a></li>
+                                <li><a href="/tag/jekyll/atom.xml" ><i class="social-icon myspace"></i> Jekyll</a></li>
+                                <li><a href="/tag/php/atom.xml" ><i class="social-icon myspace"></i> php</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Feed -->
+                
+					<!-- social -->
+					<ul class="nav pull-right ">
+						<li class="divider-vertical"></li>
+						<li class="dropdown">
+							<a href="#"
+						  		class="dropdown-toggle"
+						  		data-toggle="dropdown">
+						  		Social
+						  		<b class="caret"></b>
+							</a>
+							<ul class="dropdown-menu social-menu">
+								<li><a href="http://www.facebook.com/vipjosh08" ><i class="social-icon facebook"></i> Facebook</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon vimeo"></i> Vimeo</a></li>
+								<li><a href="http://www.youtube.com" ><i class="social-icon youtube"></i> Youtube</a></li>
+								<li><a href="http://www.vimeo.com" ><i class="social-icon tumblr"></i> Tumblr</a></li>
+							</ul>
+						</li>
+					</ul><!-- ENDS Social -->
+				
+				</div><!-- ENDS Collapse -->
+				
+			</div>
+		</div>
+	</div><!-- ENDS navbar -->
+
+	</header>
+	
+	
+	<!-- MAIN -->
+	<div id="main" role="main">
+		<div id="main" role="main">
+	<section id="info-section" class="information" >
+
+
+<div  class="page-header">
+	<h1>Tag: <small>'git'</small></h1>
+</div>
+
+
+<!-- Experience -->
+<div id="experience">
+	<table class="table experience-table">			  
+		<tbody>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://huan-lin.blogspot.com/2012/04/git-ignore-file.html" 
+			target="_blank">Git Ignore File</a>
+		</h3>
+		<span class="date"> November 12, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/11/12/Git-Ignore-File/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/11/12/Git-Ignore-File/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://huan-lin.blogspot.com/2012/04/git-ignore-file.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>.gitignore檔案使用說明</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/" 
+			target="_blank">Git 教學(1) Git 的基本使用</a>
+		</h3>
+		<span class="date"> November 07, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/11/07/Git%E6%95%99%E5%AD%B8%281%29Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Git 教學(1) Git 的基本使用</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="https://help.github.com/articles/custom-404-pages" 
+			target="_blank">Custom 404 Pages</a>
+		</h3>
+		<span class="date"> November 01, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/11/01/Custom404Pages/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/11/01/Custom404Pages/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="https://help.github.com/articles/custom-404-pages" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Custom 404 Pages</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html" 
+			target="_blank">Github 自定 Domain</a>
+		</h3>
+		<span class="date"> October 31, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/10/31/Github%E8%87%AA%E5%AE%9ADomain/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/10/31/Github%E8%87%AA%E5%AE%9ADomain/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.lijung.com/domain/github/dns/2013/06/22/github-custom-domain.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Github 自定 Domain</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.slideshare.net/littlebtc/git-5528339" 
+			target="_blank">寫改大家的Git教學</a>
+		</h3>
+		<span class="date"> September 10, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/09/10/%E5%AF%AB%E6%94%B9%E5%A4%A7%E5%AE%B6%E7%9A%84Git%E6%95%99%E5%AD%B8/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/09/10/%E5%AF%AB%E6%94%B9%E5%A4%A7%E5%AE%B6%E7%9A%84Git%E6%95%99%E5%AD%B8/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.slideshare.net/littlebtc/git-5528339" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>寫改大家的Git教學</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.slideshare.net/ihower/git-tutorial-13695342" 
+			target="_blank">Git Tutorial</a>
+		</h3>
+		<span class="date"> September 10, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/09/10/Git_Tutorial/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/09/10/Git_Tutorial/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.slideshare.net/ihower/git-tutorial-13695342" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>Git Tutorial</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://ihower.tw/git/index.html" 
+			target="_blank">版本控制系統 Git 精要</a>
+		</h3>
+		<span class="date"> September 09, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/09/09/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%B5%B1Git%E7%B2%BE%E8%A6%81/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/09/09/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%B5%B1Git%E7%B2%BE%E8%A6%81/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://ihower.tw/git/index.html" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>版本控制系統 Git 精要</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://sofree.cc/github-gist/" 
+			target="_blank">GitHub Gist 在部落格、網頁中內嵌入高亮程式碼</a>
+		</h3>
+		<span class="date"> September 05, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/09/05/GitHub_Gist%E5%9C%A8%E9%83%A8%E8%90%BD%E6%A0%BC%E3%80%81%E7%B6%B2%E9%A0%81%E4%B8%AD%E5%85%A7%E5%B5%8C%E5%85%A5%E9%AB%98%E4%BA%AE%E7%A8%8B%E5%BC%8F%E7%A2%BC/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/09/05/GitHub_Gist%E5%9C%A8%E9%83%A8%E8%90%BD%E6%A0%BC%E3%80%81%E7%B6%B2%E9%A0%81%E4%B8%AD%E5%85%A7%E5%B5%8C%E5%85%A5%E9%AB%98%E4%BA%AE%E7%A8%8B%E5%BC%8F%E7%A2%BC/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://sofree.cc/github-gist/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>GitHub Gist 在部落格、網頁中內嵌入高亮程式碼</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/" 
+			target="_blank">在windows上使用github 新手教學 / 初學者指南</a>
+		</h3>
+		<span class="date"> April 17, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/04/17/%E5%9C%A8windows%E4%B8%8A%E4%BD%BF%E7%94%A8github+%E6%96%B0%E6%89%8B%E6%95%99%E5%AD%B8%3A%E5%88%9D%E5%AD%B8%E8%80%85%E6%8C%87%E5%8D%97/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/04/17/%E5%9C%A8windows%E4%B8%8A%E4%BD%BF%E7%94%A8github+%E6%96%B0%E6%89%8B%E6%95%99%E5%AD%B8%3A%E5%88%9D%E5%AD%B8%E8%80%85%E6%8C%87%E5%8D%97/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://itspg.github.io/blog/2012/02/29/github-on-windows-tutorial/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>在windows上使用github 新手教學 / 初學者指南</p>
+	</td>
+</tr>
+			
+			<tr>
+	<td>
+		<h3 class="position" ><a href="http://www.jaceju.net/blog/archives/build-pear-channel-with-github/" 
+			target="_blank">利用 GitHub 建立自己的 PEAR 頻道</a>
+		</h3>
+		<span class="date"> April 17, 2013</span><p>
+		
+		<span class="label label-info">外網</span>
+		
+		
+		<span class="label label">git</span>
+		
+		<span class="label label-warning"><a href="/writings/2013/04/17/%E5%88%A9%E7%94%A8GitHub%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84PEAR%E9%A0%BB%E9%81%93/#disqus_thread" title="Show comments">留言</a></span>
+		<!--<span class="label label-warning"><a href="/writings/2013/04/17/%E5%88%A9%E7%94%A8GitHub%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84PEAR%E9%A0%BB%E9%81%93/#disqus_thread" title="Show comments">Comments</a></span>-->
+		<!--<a href="http://www.jaceju.net/blog/archives/build-pear-channel-with-github/" 
+			target="_blank"><small>MORE &rarr;</small></a>-->
+	</td>
+	<td class="post_at_index">
+		<p>利用 GitHub 建立自己的 PEAR 頻道</p>
+	</td>
+</tr>
+			
+		</tbody>
+	</table>
+</div><!-- ENDS Experience -->
+
+	
+
+
+
+<ul class="pager">
+<li class="previous">
+
+	<a href="/tag/git/page2" class="btn btn-default pull-left">&larr; Older</a>
+
+</li>
+<li class="next">
+
+		<a href="#" class="btn btn-default pull-right" disabled="disabled">Newer &rarr;</a>
+
+</li>
+</ul>
+
+
+
+</section><!-- ENDS info -->
+</div>
+    
+	</div><!-- ENDS MAIN -->
+	
+	
+	<footer>
+		<hr/>
+		<p>© 2013 <a href="/" >JOSH space*部落格</a>。</p>
+	</footer>
+  	
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11617569-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	<!--<script type="text/javascript">
+	var disqus_shortname = 'hellovipjosh';
+
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script>
+-->
+</div>
+
+	<!--外部連結另開視窗-->
+	<script>
+    	$(document.links).filter(function() {
+    		return this.hostname != window.location.hostname;
+		}).attr('target', '_blank');
+  	</script><!--ENDS 外部連結另開視窗-->
+</body>
+</html>
